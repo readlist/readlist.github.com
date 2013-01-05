@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>阅读列表</title>
- <link href="http://readlist.github.com/atom.xml" rel="self"/>
- <link href="http://readlist.github.com"/>
- <updated>2013-01-06T00:25:03+08:00</updated>
- <id>http://readlist.github.com</id>
+ <link href="http://www.readlist.info/atom.xml" rel="self"/>
+ <link href="http://www.readlist.info"/>
+ <updated>2013-01-06T00:29:52+08:00</updated>
+ <id>http://www.readlist.info</id>
  <author>
    <name>readlist</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>耶鲁没教给我的三件事</title>
-   <link href="http://readlist.github.com/article/2012/12/30/the-three-thing-yela-did-not-teach"/>
+   <link href="http://www.readlist.info/article/2012/12/30/the-three-thing-yela-did-not-teach"/>
    <updated>2012-12-30T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/12/30/the-three-thing-yela-did-not-teach</id>
+   <id>http://www.readlist.info/article/2012/12/30/the-three-thing-yela-did-not-teach</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/education/2012/12/29/cc29jiangxueqin'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;老实说，耶鲁和常春藤确实有着一流的教授、上进的同学与世界一流的资源。那些有幸被它们录取的学生们一定会经历一场改变人生的教育。但进入常春藤并非一件生死攸关的事，而申请这些学校的竞争却又如此激烈。在一头扎入其中之前，我们应当先理清头绪。&lt;/p&gt;
@@ -36,9 +36,9 @@
  
  <entry>
    <title>非青非红</title>
-   <link href="http://readlist.github.com/article/2012/12/30/not-color"/>
+   <link href="http://www.readlist.info/article/2012/12/30/not-color"/>
    <updated>2012-12-30T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/12/30/not-color</id>
+   <id>http://www.readlist.info/article/2012/12/30/not-color</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.dushumashang.com/2490'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;时间过得好快，转眼中国发生巨变。1977年，我考上北京大学，终于离开生活了17年的贵州北上读书，接着，惠伦也和一些朋友结伴离开，去了开放的深圳，只有刘元的灵魂永远地留在那片山坡上，他和他的母亲、弟弟，留在那片乱坟岗上。离开凯里的时候，我曾经去过那个山坡，冬春之际，新草未生，坡上一片枯黄，坟边的衰草和坟上的白布条，在寒风飒飒中摇曳。他家从北京来的六口人，最终只剩下了茕茕孑立、相依为命的姐妹俩。听说，为了抚养妹妹，刘萍嫁了中央厂矿一个俗气的天津人，很多朋友都奇怪这段不相称的婚姻，但是我明白这是无奈，毕竟这是个工人阶级，又是中央厂矿的。不过，据说10年后刘萍离婚了，也去了深圳，她的妹妹也嫁了人，到了安徽，但是我一直没有她们姐妹的消息。&lt;/p&gt;
@@ -50,9 +50,9 @@
  
  <entry>
    <title>文革离我们有多远</title>
-   <link href="http://readlist.github.com/article/2012/12/28/how-long-about-revolution"/>
+   <link href="http://www.readlist.info/article/2012/12/28/how-long-about-revolution"/>
    <updated>2012-12-28T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/12/28/how-long-about-revolution</id>
+   <id>http://www.readlist.info/article/2012/12/28/how-long-about-revolution</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/opinion/2012/12/28/cc28ouyangbin'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;但如今，《南都周刊》、《南方周末》等中国媒体关于王立军的报道揭开了重重黑幕的一角，勾勒出“重庆模式”的内部轮廓，也为还原薄熙来的重庆补上了关键的一块——无论是外在的具体政策，还是内部的运作手法，“重庆模式”都是薄王二人对毛泽东文革政治的认真挖掘和继承。温家宝将之与文革相关联，倒也贴切。&lt;/p&gt;
@@ -68,9 +68,9 @@
  
  <entry>
    <title>作家真正的恐惧，是被“国家”所魇住 -- 蒋方舟</title>
-   <link href="http://readlist.github.com/article/2012/12/24/the-real-fear-of-the-writer"/>
+   <link href="http://www.readlist.info/article/2012/12/24/the-real-fear-of-the-writer"/>
    <updated>2012-12-24T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/12/24/the-real-fear-of-the-writer</id>
+   <id>http://www.readlist.info/article/2012/12/24/the-real-fear-of-the-writer</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/culture-arts/2012/12/24/cc24jiangfangzhou/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;站在演讲台上的莫言应该恐惧什么？作家真正该恐惧的，是被国家的力量所震摄，被它的荣誉所收买，被它逐渐走向开明的幻想所欺骗。因为那将使作家失去自我。&lt;/p&gt;
@@ -90,9 +90,9 @@
  
  <entry>
    <title>卖切糕的年轻人 -- 范承刚</title>
-   <link href="http://readlist.github.com/article/2012/12/13/the-man-sell-check-out"/>
+   <link href="http://www.readlist.info/article/2012/12/13/the-man-sell-check-out"/>
    <updated>2012-12-13T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/12/13/the-man-sell-check-out</id>
+   <id>http://www.readlist.info/article/2012/12/13/the-man-sell-check-out</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.infzm.com/content/83850'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;艾尔肯不种地而去打工是因为种地不赚钱；不打工而去卖切糕是因为受教育有限、看不到上升空间；不卖切糕而回到故乡是因为要在城市生根，是如此困难。&lt;/p&gt;
@@ -122,9 +122,9 @@
  
  <entry>
    <title>当初的愿望实现了吗 -- 图书管理员丢丢君</title>
-   <link href="http://readlist.github.com/article/2012/12/12/what-about-you-dream"/>
+   <link href="http://www.readlist.info/article/2012/12/12/what-about-you-dream"/>
    <updated>2012-12-12T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/12/12/what-about-you-dream</id>
+   <id>http://www.readlist.info/article/2012/12/12/what-about-you-dream</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.douban.com/note/251555908/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;有一天，你失眠了，你躺在床上，回忆这十几年的生活，脑子里出现的是你刚上大学的情景，意气风发，雄心壮志；你想起了你和兄弟大晚上出去喝酒然后醉醺醺的相互搀扶着回宿舍；你想起了你那时候在寝室高喊着老子总有一天要出人头地；你想起了你那时候暗恋隔壁系的系花，偷偷摸摸观察了她好久但是没敢开口，最后看着她进入了别人的怀抱；你想起在那个大雪飘飞的冬天，你穿着正装冻得哆哆嗦嗦的赶着公交；你想起那时候你的简历被随意扔在一边，经理告诉你，回去等消息；你想起你第一次接到offer的欣喜；你想起你领到第一个月工资兴奋地找上最好的哥们出去吃饭喝酒庆祝；你想起第一次跳槽的紧张激动；你想起你一次约会的局促不安；你想起婚礼宣誓时妻子灿烂的笑脸；你想起你孩子第一次叫爸爸时，你一个兴奋撞到桌子，膝盖的淤青半个多月才消下去….&lt;/p&gt;
@@ -142,9 +142,9 @@
  
  <entry>
    <title>我们为什么没有安全感 -- 铁皮娃娃</title>
-   <link href="http://readlist.github.com/article/2012/12/05/why-we-are-insecure"/>
+   <link href="http://www.readlist.info/article/2012/12/05/why-we-are-insecure"/>
    <updated>2012-12-05T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/12/05/why-we-are-insecure</id>
+   <id>http://www.readlist.info/article/2012/12/05/why-we-are-insecure</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://blog.sina.com.cn/s/blog_4a9e2b8601010qsf.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;寒假的一天，我在送女儿去上奥数班之后，在等候区的沙发坐着。这时风风火火进来一位妈妈，向前台询问小学一年级的语文班到底教些什么东西。前台说是什么看图说话之类的，显然不能让这位妈妈十分满意，尽管如此，她还是给孩子报上了一期——当然，价格是以千元记。&lt;/p&gt;
@@ -166,9 +166,9 @@
  
  <entry>
    <title>让我们用美好人道的方式离开人世 -- 比尔·凯勒</title>
-   <link href="http://readlist.github.com/article/2012/12/03/how-to-die"/>
+   <link href="http://www.readlist.info/article/2012/12/03/how-to-die"/>
    <updated>2012-12-03T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/12/03/how-to-die</id>
+   <id>http://www.readlist.info/article/2012/12/03/how-to-die</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/opinion/2012/12/03/c03keller/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;“有很多理由相信你可能省钱，”伊曼纽尔说。“我只是想，我们不能仅仅为了省钱而这么做。”&lt;/p&gt;
@@ -184,9 +184,9 @@
  
  <entry>
    <title>从梁庄出发触摸中国乡村 -- 马金瑜</title>
-   <link href="http://readlist.github.com/article/2012/12/03/from-liangcun-to-china-country"/>
+   <link href="http://www.readlist.info/article/2012/12/03/from-liangcun-to-china-country"/>
    <updated>2012-12-03T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/12/03/from-liangcun-to-china-country</id>
+   <id>http://www.readlist.info/article/2012/12/03/from-liangcun-to-china-country</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.dushumashang.com/2415'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;梁鸿是中国青年政治学院中文系副教授，人民大学文学院博士后，她分别于2008年、2009年间，用近5个月的时间深入河南乡村调查采访，完成了十多万字的纪实性乡村调查《中国在梁庄》，该作品选摘《梁庄》获得2010年度人民文学颁发的“非虚构作品奖”，同时获评《亚洲周刊》2010年度“非虚构十大好书”、《新京报》2010年度文学好书。&lt;/p&gt;
@@ -202,9 +202,9 @@
  
  <entry>
    <title>穆斯林卫生间里的秘密 -- Wajahat Ali</title>
-   <link href="http://readlist.github.com/article/2012/12/01/secrets-of-the-muslim-bathroom"/>
+   <link href="http://www.readlist.info/article/2012/12/01/secrets-of-the-muslim-bathroom"/>
    <updated>2012-12-01T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/12/01/secrets-of-the-muslim-bathroom</id>
+   <id>http://www.readlist.info/article/2012/12/01/secrets-of-the-muslim-bathroom</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://select.yeeyan.org/view/106613/333949'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;在美国，穆斯林得有《谍影重重》主角杰森·伯恩的心思，才能完成各种宗教仪式而不露痕迹，避免陷入各种尴尬。比如，你想要找到一个独出心裁的祷告场所，在伏地拜倒被撞现行时还能给出合理的解释，真的不容易。假如当时你正在盖普服装店的小隔间里跪倒，“我在打阿拉伯太极，”你可能会说，“嗯……，东方把式。”&lt;/p&gt;
@@ -222,9 +222,9 @@
  
  <entry>
    <title>为了忘却的纪念，1942 -- 刘震云</title>
-   <link href="http://readlist.github.com/article/2012/12/01/for-missing-memory-1942"/>
+   <link href="http://www.readlist.info/article/2012/12/01/for-missing-memory-1942"/>
    <updated>2012-12-01T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/12/01/for-missing-memory-1942</id>
+   <id>http://www.readlist.info/article/2012/12/01/for-missing-memory-1942</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/opinion/2012/12/01/c01liuzhenyun/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;在中国历史上，饿死人和人吃人的情况实在太多了。对于饿死人成了家常便饭的民族来说，除了遗忘，怎么面对这个严峻而平常的事实，也是个问题。&lt;/p&gt;
@@ -250,9 +250,9 @@
  
  <entry>
    <title>杭州：破茧之城</title>
-   <link href="http://readlist.github.com/article/2012/11/29/hangzhou-the-power-of-city"/>
+   <link href="http://www.readlist.info/article/2012/11/29/hangzhou-the-power-of-city"/>
    <updated>2012-11-29T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/29/hangzhou-the-power-of-city</id>
+   <id>http://www.readlist.info/article/2012/11/29/hangzhou-the-power-of-city</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.dushumashang.com/2389'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;熏风吹暖水云乡，货殖尽登场，南金东箭西湖宝，齐点缀锦绣钱塘。喧动六朝车马，欣看万里梯航，明湖此夕发华光。人物果丰穰，吴山还我中原地，同消受桂子荷香，奏遍鱼龙曼衍，原来根本农桑。——（清）吴梅《风入松》（西湖博览会会歌）&lt;/p&gt;
@@ -272,9 +272,9 @@
  
  <entry>
    <title>没有互联网的美国世外桃源 -- VIVIAN YEE</title>
-   <link href="http://readlist.github.com/article/2012/11/29/american-paradise-without-the-internet"/>
+   <link href="http://www.readlist.info/article/2012/11/29/american-paradise-without-the-internet"/>
    <updated>2012-11-29T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/29/american-paradise-without-the-internet</id>
+   <id>http://www.readlist.info/article/2012/11/29/american-paradise-without-the-internet</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/education/2012/11/27/c27campus/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;这并不是说学生完全切断了和外界的联系。很多学生都在听时下最新的音乐，包括来自西雅图湖滨学校(Lakeside School)的16岁的茱莉亚·克里斯坦森(Julia Christensen)。最近有一天，她在早上7点前起了床，为的是赶在上网高峰期之前下载泰勒·斯威夫特(Taylor Swift)的新专辑。但那是一次例外。&lt;/p&gt;
@@ -296,9 +296,9 @@
  
  <entry>
    <title>你是我日复一日的梦想 - [只談風月不談愛] --</title>
-   <link href="http://readlist.github.com/article/2012/11/26/you-i-dream-of-the-day-to-day"/>
+   <link href="http://www.readlist.info/article/2012/11/26/you-i-dream-of-the-day-to-day"/>
    <updated>2012-11-26T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/26/you-i-dream-of-the-day-to-day</id>
+   <id>http://www.readlist.info/article/2012/11/26/you-i-dream-of-the-day-to-day</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://qushumei.blogbus.com/logs/83012225.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;王菲演唱会那天，怕堵车，选择坐地铁一号线去五棵松。挤了四趟，我都没有挤上去。想起一个段子：“世界上最遥远的距离，不是生与死，而是我们等同一趟地铁，你上去了，我却没有挤上去。”我很少坐一号线，所以避免了每日在夹缝中生存的尴尬。可是大多数人，每天都要在昏昏欲睡的时候在这样的逼仄中一站一个多小时。&lt;/p&gt;
@@ -342,9 +342,9 @@
  
  <entry>
    <title>市长中的市长 -- Gabriel Sherman</title>
-   <link href="http://readlist.github.com/article/2012/11/25/the-mayor-of-mayors"/>
+   <link href="http://www.readlist.info/article/2012/11/25/the-mayor-of-mayors"/>
    <updated>2012-11-25T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/25/the-mayor-of-mayors</id>
+   <id>http://www.readlist.info/article/2012/11/25/the-mayor-of-mayors</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://select.yeeyan.org/view/14748/333704'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;在新奥尔良，布隆伯格出资420万美元，用以减少犯罪项目，由兰德里政府七个系统的专家主持。2010年，他调拨了400万美元，赞助几个申请奥巴马“力争上游”教育计划的州政府。当科罗拉多州未能达到申请联邦资金的资格时，他又为当地选举出资40万美元，以确保具有改革思想、支持“力争上游”计划的民主党州议员能够在党内艰难连任。“出资支持创新性思想和项目，需要面临很大的经济和政治压力，”丹佛市公立学校校监汤姆•鲍斯伯格说，“慈善事业一直起着关键作用，尤其是现在，当我们正面临着残酷的预算削减之际。”&lt;/p&gt;
@@ -364,9 +364,9 @@
  
  <entry>
    <title>《少年派的奇幻漂流》的老虎是怎么做出来的？ -- MEKADO MURPHY</title>
-   <link href="http://readlist.github.com/article/2012/11/24/life-of-pie-tiger"/>
+   <link href="http://www.readlist.info/article/2012/11/24/life-of-pie-tiger"/>
    <updated>2012-11-24T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/24/life-of-pie-tiger</id>
+   <id>http://www.readlist.info/article/2012/11/24/life-of-pie-tiger</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/culture-arts/2012/11/24/c24tiger/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;《少年派的奇幻漂流》讲的是一个男孩与一只老虎在海上漂流的哲理故事，并不很适合改编为电影。首先，就要面对老虎这个棘手的问题。但当李安着手把扬·马特尔(Yann Martel)这部广受好评的小说搬上银幕时，他为影片大量的视觉效果构思出一个复杂的方案。&lt;/p&gt;
@@ -384,9 +384,9 @@
  
  <entry>
    <title>让生命延长 —— cnberg</title>
-   <link href="http://readlist.github.com/article/2012/11/24/life-extension"/>
+   <link href="http://www.readlist.info/article/2012/11/24/life-extension"/>
    <updated>2012-11-24T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/24/life-extension</id>
+   <id>http://www.readlist.info/article/2012/11/24/life-extension</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cnberg.com/archive/lengthen-your-life-travel'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;每个人都会恐惧和敬畏未知，但内心最深处，都保有对未知土地的探索热忱 —— 这让人类几万年之前就成为全球分布最广的物种，可迁徙需要数代时间，过程中人们流离失所。&lt;/p&gt;
@@ -410,9 +410,9 @@
  
  <entry>
    <title>当中国胃遇到火鸡大餐 -- 高雨莘</title>
-   <link href="http://readlist.github.com/article/2012/11/24/chinese-stomach-trukey-dinner"/>
+   <link href="http://www.readlist.info/article/2012/11/24/chinese-stomach-trukey-dinner"/>
    <updated>2012-11-24T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/24/chinese-stomach-trukey-dinner</id>
+   <id>http://www.readlist.info/article/2012/11/24/chinese-stomach-trukey-dinner</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/education/2012/11/24/cc24highschool/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;我面前的圆桌上摆着一大碗绿生生的菠菜叶，上面孤零零几滴酸溜溜的白醋沙拉酱，一筐烤得硬邦邦的切片面包伴着一小碟黄油，一扎冰水，一扎牛奶，桌旁围坐着一圈衣着光鲜的同学。大家正神采奕奕地谈论着白天课堂上发生的轶事，直到听到不远处传来的脚步声。所有脑袋不约而同转向那个方向。&lt;/p&gt;
@@ -444,9 +444,9 @@
  
  <entry>
    <title>中央情报局解密报告：两名间谍在中国的20年</title>
-   <link href="http://readlist.github.com/article/2012/11/22/two-cia-prisoners-in-china"/>
+   <link href="http://www.readlist.info/article/2012/11/22/two-cia-prisoners-in-china"/>
    <updated>2012-11-22T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/22/two-cia-prisoners-in-china</id>
+   <id>http://www.readlist.info/article/2012/11/22/two-cia-prisoners-in-china</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://select.yeeyan.org/view/103880/114638'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;“唐尼和费克图第一次执行任务即被击落，从此在中国监狱里度过了20年。”&lt;/p&gt;
@@ -486,9 +486,9 @@
  
  <entry>
    <title>由psp破解谈到中国伸手党式网民的心理</title>
-   <link href="http://readlist.github.com/article/2012/11/21/psp-crack-and-hand-netizens"/>
+   <link href="http://www.readlist.info/article/2012/11/21/psp-crack-and-hand-netizens"/>
    <updated>2012-11-21T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/21/psp-crack-and-hand-netizens</id>
+   <id>http://www.readlist.info/article/2012/11/21/psp-crack-and-hand-netizens</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://blog.sina.com.cn/s/blog_652cc41d0100u0qf.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;我想这也是很多人面对破解、汉化和游戏共享发布等情况时的内心真实写照。对于社会大环境的怀疑，对于他人目的的揣测和出于自身的不成熟造就了众多的网络喷 子，在一个不必担心责任问题的地方指责别人的确是一件爽快的事。更重要的是网络冷暴力所造成的后果往往难以追查，毕竟法不责众，犯错的是一批人而不是一个 人。这个责任无法落实到谁头上去。&lt;/p&gt;
@@ -504,9 +504,9 @@
  
  <entry>
    <title>蜂巢人生 -- 马金瑜</title>
-   <link href="http://readlist.github.com/article/2012/11/21/honeycomb-life"/>
+   <link href="http://www.readlist.info/article/2012/11/21/honeycomb-life"/>
    <updated>2012-11-21T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/21/honeycomb-life</id>
+   <id>http://www.readlist.info/article/2012/11/21/honeycomb-life</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://epaper.oeeee.com/A/html/2012-11/21/content_1757884.htm'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;一楼16间，二楼13间，天台9间。这是北京西三环某高档住宅小区里一套一百多平米的顶层复式住宅，内部被分隔为38个“房间”，基本都招揽了租客。租客中既有苹果手机游戏的程序设计师，也有名人所开酒吧的工作人员，既有新东方的学生，也有发廊的洗头工和房产中介……当地下室不能居住的时候，他们搬到了地面上；当北京的房价堪比纽约和悉尼，他们就从十几平米的小房间挤进了一个个不到三平米的小隔断—这种密如蜂巢的“房间”，在北京市写字楼和高校集中的区域并不鲜见，“蜂巢”里的租客们静悄悄地生存着。每天，他们只在这里躺下去睡觉，站起来上班，他们几乎总是一声不吭。&lt;/p&gt;
@@ -520,9 +520,9 @@
  
  <entry>
    <title>金士杰：剧场里的苦行僧 -- 熊廖</title>
-   <link href="http://readlist.github.com/article/2012/11/20/theater-ascetic"/>
+   <link href="http://www.readlist.info/article/2012/11/20/theater-ascetic"/>
    <updated>2012-11-20T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/20/theater-ascetic</id>
+   <id>http://www.readlist.info/article/2012/11/20/theater-ascetic</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://famous.bjnews.com.cn/dic.php?id=2364'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;我当年读的是专科，畜牧专业，为什么做戏剧?就是兴趣。从小就是所谓的文艺青年，喜欢看电影、看小说，自己喜欢画画，喜欢逛书店。读农专的时候，兴趣始终没改变过，读农是读农，那是工作，毕业之后，当了一年兵，在牧场养了一年猪，就跑到台北做粗活了，同时开始写自己的剧本。&lt;/p&gt;
@@ -540,9 +540,9 @@
  
  <entry>
    <title>三里屯碎片 -- 瞳孔中央</title>
-   <link href="http://readlist.github.com/article/2012/11/20/sanlitun-debris"/>
+   <link href="http://www.readlist.info/article/2012/11/20/sanlitun-debris"/>
    <updated>2012-11-20T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/20/sanlitun-debris</id>
+   <id>http://www.readlist.info/article/2012/11/20/sanlitun-debris</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://catnap.blog.sohu.com/194440437.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;北京的三里屯是个充满临时感的地方。这里好象没有过去，没有将来，只有悸动的现在。它并不肩负着巨大的历史使命，但它在卑微的工作方面做得很出色，那就是制造欲望和满足欲望。不论游荡到这里的人从哪儿来，他们都像海上的水手刚刚靠岸，在这里享用酒，肉和性，在这里建立短暂的雇佣关系，临时的爱情和脆弱的友谊，他们没有一个想要长久地呆在这里，水手嘛，满足了欲望后当然要跳上船继续游荡。三里屯就像空降到北京的一个岛屿，笼罩着富有异域感的人造气泡。&lt;/p&gt;
@@ -554,9 +554,9 @@
  
  <entry>
    <title>我在劳伦斯威尔私立高中的故事 -- 阎子妤</title>
-   <link href="http://readlist.github.com/article/2012/11/18/my-story-in-lawrenceville-school"/>
+   <link href="http://www.readlist.info/article/2012/11/18/my-story-in-lawrenceville-school"/>
    <updated>2012-11-18T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/18/my-story-in-lawrenceville-school</id>
+   <id>http://www.readlist.info/article/2012/11/18/my-story-in-lawrenceville-school</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/education/2012/11/17/cc17highschool/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;放学进宿舍楼要签到，晚自习时要打开寝室门供老师随时检查，晚上10点40分准时熄灯，周末离校还要跟老师汇报……这就是我进入美国一家私立寄宿高中以后面对得严格得几近不近人情的宿舍生活。&lt;/p&gt;
@@ -572,9 +572,9 @@
  
  <entry>
    <title>掌瓢黎爷 -- 土家野夫</title>
-   <link href="http://readlist.github.com/article/2012/11/17/cook-li"/>
+   <link href="http://www.readlist.info/article/2012/11/17/cook-li"/>
    <updated>2012-11-17T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/17/cook-li</id>
+   <id>http://www.readlist.info/article/2012/11/17/cook-li</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://yefu.blog.caixin.com/archives/45549'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;前些年回武昌访酒，纠集了一座文朋诗友，在某“苍蝇馆子”胡吃海喝。风卷残云七仰八翻之后，我赶着去柜台埋单上账。坐堂徐娘施施笑曰：免单了，你们走吧。我好奇，要讨个由头。徐娘半嗔半笑地说：我们灶屋的厨头，说把账记他头上了，月底扣出来。也不知道他欠你们哪位的钱？&lt;/p&gt;
@@ -588,9 +588,9 @@
  
  <entry>
    <title>书：两千本的奇迹</title>
-   <link href="http://readlist.github.com/article/2012/11/17/book-two-thousand-year-memory"/>
+   <link href="http://www.readlist.info/article/2012/11/17/book-two-thousand-year-memory"/>
    <updated>2012-11-17T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/17/book-two-thousand-year-memory</id>
+   <id>http://www.readlist.info/article/2012/11/17/book-two-thousand-year-memory</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.dushumashang.com/2257'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;如今我们活在一个不相信远比相信容易的时代，台湾这样，香港我猜也是这样，大陆好一点，但可能更快更暴烈会变成这样。但麻烦的是，人还非得相信点什么才行，什么都不相信看起来很轻松很潇洒，但其实最辛苦最疲惫，人会不想读书不想做事不敢恋爱不敢生小孩甚至提前衰老很难活下去。&lt;/p&gt;
@@ -610,9 +610,9 @@
  
  <entry>
    <title>奋斗：固始三则</title>
-   <link href="http://readlist.github.com/article/2012/11/15/struggle-something-about-gushi"/>
+   <link href="http://www.readlist.info/article/2012/11/15/struggle-something-about-gushi"/>
    <updated>2012-11-15T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/15/struggle-something-about-gushi</id>
+   <id>http://www.readlist.info/article/2012/11/15/struggle-something-about-gushi</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.dushumashang.com/2352'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;当晚郑州市中心的旅馆一间空房不剩，连最旧的红房间也打开使用，霉气漫至大雨的街道中。&lt;/p&gt;
@@ -632,9 +632,9 @@
  
  <entry>
    <title>凉山安魂曲</title>
-   <link href="http://readlist.github.com/article/2012/11/15/liangshan-requiem"/>
+   <link href="http://www.readlist.info/article/2012/11/15/liangshan-requiem"/>
    <updated>2012-11-15T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/15/liangshan-requiem</id>
+   <id>http://www.readlist.info/article/2012/11/15/liangshan-requiem</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.dushumashang.com/2355'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;去博什瓦黑古岩画的路上，远山走着一个黑色查尔瓦，这披风走起来像移动的蚁冢，山路很烂，山谷却很空阔，像能承受歌声，这红土一直连到云南，开始有烤烟，凉山这里，仍是遍野土豆和苦荞。&lt;/p&gt;
@@ -652,9 +652,9 @@
  
  <entry>
    <title>让李小龙开口说话的人 -- ALEX WITCHEL</title>
-   <link href="http://readlist.github.com/article/2012/11/14/the-man-let-bruce-lee-talk"/>
+   <link href="http://www.readlist.info/article/2012/11/14/the-man-let-bruce-lee-talk"/>
    <updated>2012-11-14T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/14/the-man-let-bruce-lee-talk</id>
+   <id>http://www.readlist.info/article/2012/11/14/the-man-let-bruce-lee-talk</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/culture-arts/2012/11/14/c14hwang/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;黄哲伦与父亲的冲突也可以解释为什么他在金钱这个话题上如此防备。我是说他的钱。当我谈到新闻报道中提到20年前《蝴蝶君》累计赚得的3500多万美元，他父亲的银行的售价，甚至最近哈罗德和米米·斯坦伯格慈善信托基金会(Harold and Mimi Steinberg Charitable Trust)给他的20万美元的剧作奖时，他的身体往后缩。根据网上的一些评论，他的“金童”形象，部分缘自于他生在富人家，从来不缺钱。在他事业刚刚起步时，就凭《蝴蝶君》获得了巨大的商业利润，这也强化了这种观念。愤怒让黄哲伦的声音变得又尖又高。&lt;/p&gt;
@@ -672,9 +672,9 @@
  
  <entry>
    <title>怎么理解《瓦尔登湖》 -- 张小航</title>
-   <link href="http://readlist.github.com/article/2012/11/14/how-to-understand-walden-lake"/>
+   <link href="http://www.readlist.info/article/2012/11/14/how-to-understand-walden-lake"/>
    <updated>2012-11-14T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/14/how-to-understand-walden-lake</id>
+   <id>http://www.readlist.info/article/2012/11/14/how-to-understand-walden-lake</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.zhihu.com/question/20062595/answer/15558657'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;父亲总对我说，生活，总是有乐趣的。每一天的生活呢，其实都有所不同。我们，应该学会用心去感受生活。无论是上班的途中，亦或者是一个人在家里，其实，乐趣都蕴含在生活当中。反观在大城市生活的人们，早上的闹钟响了三次也起不了床，晚上呢，则是凌晨一、两点钟也不愿去休息。在上班的途中乘坐地铁的时候呢，通常也是表情茫然甚至麻木。朋友聚会的时候，不是彼此交流，而是各自窝在角落里玩手机。日子于他们而言，只是日复一日的流水账，没有丝毫的乐趣可言。&lt;/p&gt;
@@ -690,9 +690,9 @@
  
  <entry>
    <title>如何理解EVA -- 黄星辰</title>
-   <link href="http://readlist.github.com/article/2012/11/14/how-to-understand-eva"/>
+   <link href="http://www.readlist.info/article/2012/11/14/how-to-understand-eva"/>
    <updated>2012-11-14T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/14/how-to-understand-eva</id>
+   <id>http://www.readlist.info/article/2012/11/14/how-to-understand-eva</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.zhihu.com/question/20566787/answer/15507298'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;碇真嗣日语原名是碇シンジ，绫波丽日语原名是綾波レイ，碇元渡的原名是碇ゲンドウ，这其中隐藏着如下的含义：シンジ发音Shinji，同日语中“神儿”， レイ发音Rei，同日语中的“灵”，而ゲンドウGendou，同日语中的“言動”——言動即“言叶”（语言），也就是“道”（Word）。在新约圣经·约翰福音（John）第1章第一节中有这样的文字：“In the beginning was the Word,and the Word was with God,and the Word was God.”，中文翻译为“太初有道，道与神同在，道就是神”。很明显，碇真嗣代表“圣子”，绫波丽代表“圣灵”，而碇元渡就是代表“圣父”了。三人的组合代表着圣父、圣子和圣灵“三位一体”的重要教义。&lt;/p&gt;
@@ -712,9 +712,9 @@
  
  <entry>
    <title>章念驰 祖父不需要刻意纪念 -- 邹金灿</title>
-   <link href="http://readlist.github.com/article/2012/11/14/grandfather-do-not-need-to-deliberately-commemorate"/>
+   <link href="http://www.readlist.info/article/2012/11/14/grandfather-do-not-need-to-deliberately-commemorate"/>
    <updated>2012-11-14T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/14/grandfather-do-not-need-to-deliberately-commemorate</id>
+   <id>http://www.readlist.info/article/2012/11/14/grandfather-do-not-need-to-deliberately-commemorate</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.nfpeople.com/News-detail-item-3868.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;父亲章导自1949年之后，就一直被进行“无休无止的劳改”。章念驰在上海求学、工作，大部分时间不能与他见面。&lt;/p&gt;
@@ -732,9 +732,9 @@
  
  <entry>
    <title>穿越西伯利亚的火车旅行</title>
-   <link href="http://readlist.github.com/article/2012/11/13/trans-siberian-train-travel"/>
+   <link href="http://www.readlist.info/article/2012/11/13/trans-siberian-train-travel"/>
    <updated>2012-11-13T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/13/trans-siberian-train-travel</id>
+   <id>http://www.readlist.info/article/2012/11/13/trans-siberian-train-travel</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://article.yeeyan.org/view/18312/331497'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;假如你说喜欢乘火车旅行，那么接下来免不了会被问这个问题，“你乘过穿越过西伯利亚的火车吗？”几乎人人都想去做这样一次旅行，也许人们一般认为，这是你能一次乘坐的距离最长的火车旅行：在三条穿越西伯利亚的火车路线中，最长的是从莫斯科到符拉迪沃斯托克，行程长达9258公里（6152英里），在路上需要七天时间。还有一条更长的路线是从乌克兰到符拉迪沃斯托克的，但是作为介绍世界上最大的国家和她的风景，穿越西伯利亚火车带来的体验是无可匹敌的。&lt;/p&gt;
@@ -746,9 +746,9 @@
  
  <entry>
    <title>“独自旅行者”旅游指南大全 -- STEPHANIE PRSENBLOOM</title>
-   <link href="http://readlist.github.com/article/2012/11/10/travel-alone-tourise-guide-book"/>
+   <link href="http://www.readlist.info/article/2012/11/10/travel-alone-tourise-guide-book"/>
    <updated>2012-11-10T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/10/travel-alone-tourise-guide-book</id>
+   <id>http://www.readlist.info/article/2012/11/10/travel-alone-tourise-guide-book</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/travel/2012/11/10/c10single/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;啊，放假了。一年中最美好的时光当然要与你最爱的人共度——我是说你自己。&lt;/p&gt;
@@ -762,9 +762,9 @@
  
  <entry>
    <title>中国水墨的革命 -- NINA SIEGAL</title>
-   <link href="http://readlist.github.com/article/2012/11/10/the-chinese-ink-revolution"/>
+   <link href="http://www.readlist.info/article/2012/11/10/the-chinese-ink-revolution"/>
    <updated>2012-11-10T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/10/the-chinese-ink-revolution</id>
+   <id>http://www.readlist.info/article/2012/11/10/the-chinese-ink-revolution</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/culture-arts/2012/11/09/c09shuimo/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;阿姆斯特丹——仇德树的艺术生涯前半部分，基本上与中国历史的动荡时期是重合的。&lt;/p&gt;
@@ -780,9 +780,9 @@
  
  <entry>
    <title>小面团里的大世界 -- 陈楠</title>
-   <link href="http://readlist.github.com/article/2012/11/10/smaller-units-in-the-world"/>
+   <link href="http://www.readlist.info/article/2012/11/10/smaller-units-in-the-world"/>
    <updated>2012-11-10T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/10/smaller-units-in-the-world</id>
+   <id>http://www.readlist.info/article/2012/11/10/smaller-units-in-the-world</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/life-fashion/2012/11/10/cc10recipe/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;“我简直无法相信，这一切真的发生了！我整个人从指尖到肘弯，一直到全身心地扑在上面，揉啊揉啊，真的太放松了。”我的朋友T女士去了我推荐给她的巴黎“揉面团俱乐部”，只上了一节课，就忙不迭地打来电话，表示感谢。这个俱乐部是个私人社团，每周一次教做面包。来上课的大多是工作狂，压力大到无法发泄，却纷纷在揉面做面包的过程中体验到了解压、放松和成就感。&lt;/p&gt;
@@ -794,9 +794,9 @@
  
  <entry>
    <title>发生在湖南道县的那场大屠杀 -- 蒋方舟</title>
-   <link href="http://readlist.github.com/article/2012/11/08/the-massacre-occurred-in-hunan-road-county"/>
+   <link href="http://www.readlist.info/article/2012/11/08/the-massacre-occurred-in-hunan-road-county"/>
    <updated>2012-11-08T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/08/the-massacre-occurred-in-hunan-road-county</id>
+   <id>http://www.readlist.info/article/2012/11/08/the-massacre-occurred-in-hunan-road-county</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/culture-arts/2012/11/08/cc08jiangfangzhou/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;《血的神话——公元1967年湖南道县文革大屠杀纪实》是报告文学作家、原《芙蓉》杂志编辑谭合成的一部非虚构作品，他花了近二十年的时间对文革期间发生在湖南道县的大屠杀进行调查，之后完成此书。&lt;/p&gt;
@@ -822,9 +822,9 @@
  
  <entry>
    <title>跳出历史的“周期率” -- 傅国涌</title>
-   <link href="http://readlist.github.com/article/2012/11/08/out-of-history-of-the-cycle-rate"/>
+   <link href="http://www.readlist.info/article/2012/11/08/out-of-history-of-the-cycle-rate"/>
    <updated>2012-11-08T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/08/out-of-history-of-the-cycle-rate</id>
+   <id>http://www.readlist.info/article/2012/11/08/out-of-history-of-the-cycle-rate</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://blog.sina.com.cn/s/blog_48fe46d90102e2zd.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;跳出历史的“周期率”这个话题，我们可以说是从黄炎培开始的，抗日战争即将胜利前夕，他曾经以国民参政会参政员的身份访问过延安，和毛泽东有过一番著名的“窑洞对”，提出了历史“周期率”这个话题。黄炎培当时说：“我生六十多年，耳闻的不说，所亲眼看到的，真所谓‘其兴也浡焉’，‘其亡也忽焉’，一人，一家，一团体，一地方，乃至一国，不少不少单位都没有能跳出这周期率的支配力。……一部历史，‘政怠宦成’的也有，‘人亡政息’的也有，‘求荣取辱’的也有。总之没有能跳出这周期率。”他说的这个“周期率”可能还是比较感性，不是一个理论的阐述，从大的角度来说，综观我们中国几千年的历史，这个“周期率”，实际上可以用两句话来概括，一个就是我们的历史从来都是一部以暴易暴的历史，第二个就是成王败寇的历史。我们一而再地陷入以暴易暴、成王败寇这样一种恶性的历史循环之中。每一次王朝更迭，都是把前朝的历史重新复制一遍。张家王朝衰落了，起来一个李家王朝取而代之，但是李家王朝并不会创造出一种新的制度，也不会有新的文化因子出现，它跟前朝照样是换汤不换药，继续先是兴、再到衰、再到亡这样一个“周期率”。&lt;/p&gt;
@@ -834,9 +834,9 @@
  
  <entry>
    <title>从未见过如此热爱生命的人 -- LIGHT</title>
-   <link href="http://readlist.github.com/article/2012/11/07/the-meaning-of-life"/>
+   <link href="http://www.readlist.info/article/2012/11/07/the-meaning-of-life"/>
    <updated>2012-11-07T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/07/the-meaning-of-life</id>
+   <id>http://www.readlist.info/article/2012/11/07/the-meaning-of-life</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://lightory.net/nietzsche/689/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;在漫长的岁月里，许多问题一直困扰着我，其一便是「人生的意义」。对于这个问题，每个人大约会得出不同的结论。可我愚笨，竟始终寻找不到答案。于是稀里糊涂活到现在。&lt;/p&gt;
@@ -864,9 +864,9 @@
  
  <entry>
    <title>佛教艺术中的沙 -- 徐宥</title>
-   <link href="http://readlist.github.com/article/2012/11/07/sands-in-buddhism"/>
+   <link href="http://www.readlist.info/article/2012/11/07/sands-in-buddhism"/>
    <updated>2012-11-07T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/07/sands-in-buddhism</id>
+   <id>http://www.readlist.info/article/2012/11/07/sands-in-buddhism</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://blog.youxu.info/2012/10/24/sands-in-buddhism/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;日本禅宗的“枯山水”就是一种依赖于沙的园林艺术。枯山水在西方很有名，以至于在西方直接被称为禅花园(Zen Garden)。一般的园林都会通过假山和水构景，通过人造的山和水，来引起观者自然的联想，从而联系人与自然。而枯山水园林却反其道而行，不采用真正的山，也不摆放真实的树，竹等物。枯山水中的水，是细细耙制的静态的白色砂石，模拟水的动态形态；枯山水中的植物也极少或者没有。这种美学上的差异，其实是和中日两国禅宗在修行上的侧重不同有关的。&lt;/p&gt;
@@ -882,9 +882,9 @@
  
  <entry>
    <title>来吧，让我们一起强奸生活 -- 浮云飘飘</title>
-   <link href="http://readlist.github.com/article/2012/11/07/let-us-rap-the-life"/>
+   <link href="http://www.readlist.info/article/2012/11/07/let-us-rap-the-life"/>
    <updated>2012-11-07T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/07/let-us-rap-the-life</id>
+   <id>http://www.readlist.info/article/2012/11/07/let-us-rap-the-life</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://traveler.ycool.com/post.3397507.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;我很少因为一本书而感动，但《项塔兰》做到了。那样的感动，不是悲剧落幕的泪流满面，也不是被重重锤击的灵魂，而是一种令人愉快的默契，就像见到久别重逢的老友，淡淡一笑，便能传递一切。&lt;/p&gt;
@@ -900,9 +900,9 @@
  
  <entry>
    <title>嗨！Julia -- 许知远</title>
-   <link href="http://readlist.github.com/article/2012/11/07/hello-julia"/>
+   <link href="http://www.readlist.info/article/2012/11/07/hello-julia"/>
    <updated>2012-11-07T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/07/hello-julia</id>
+   <id>http://www.readlist.info/article/2012/11/07/hello-julia</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://book.163.com/09/0910/10/5IRI0QK700923IP6_2.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;即使不说话，Julia也是最引人瞩目的一位。&lt;/p&gt;
@@ -922,9 +922,9 @@
  
  <entry>
    <title>告别印象主义 -- 刘瑜</title>
-   <link href="http://readlist.github.com/article/2012/11/07/farewell-impressionism"/>
+   <link href="http://www.readlist.info/article/2012/11/07/farewell-impressionism"/>
    <updated>2012-11-07T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/07/farewell-impressionism</id>
+   <id>http://www.readlist.info/article/2012/11/07/farewell-impressionism</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://blog.ifeng.com/article/6728011.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;胡适真是个老小孩。晚年时有人去看他，谈话间引用古人名句“为天地立心，为生民立命”，他回应道：“为天地立心”是什么意思？你能给说清楚吗？你祖父还是个天文学家，以后这种说不清楚意思的东西就不要再说了。&lt;/p&gt;
@@ -940,9 +940,9 @@
  
  <entry>
    <title>我不愿跟这个浮躁喧嚣的社会说话 -- 戴大洪</title>
-   <link href="http://readlist.github.com/article/2012/11/07/do-not-want-speak-to-the-bustle-of-society"/>
+   <link href="http://www.readlist.info/article/2012/11/07/do-not-want-speak-to-the-bustle-of-society"/>
    <updated>2012-11-07T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/07/do-not-want-speak-to-the-bustle-of-society</id>
+   <id>http://www.readlist.info/article/2012/11/07/do-not-want-speak-to-the-bustle-of-society</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://blog.sina.com.cn/s/blog_494a03410101c879.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;对中国职业足球联赛最早的一批球迷来说，戴大洪还是河南建业足球俱乐部的老总；但对于现在的读者来说，戴大洪是一个和西方文学史、政治史联系在一起的名字。&lt;/p&gt;
@@ -962,9 +962,9 @@
  
  <entry>
    <title>一个普通男孩的故事 -- 左岸</title>
-   <link href="http://readlist.github.com/article/2012/11/07/a-story-of-normal-boy"/>
+   <link href="http://www.readlist.info/article/2012/11/07/a-story-of-normal-boy"/>
    <updated>2012-11-07T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/07/a-story-of-normal-boy</id>
+   <id>http://www.readlist.info/article/2012/11/07/a-story-of-normal-boy</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.zreading.cn/archives/3357.html'&gt;地址&lt;/a&gt; （一）&lt;/p&gt;
 
 &lt;p&gt;从前，有个女孩的男朋友脑袋里充满了怪异的想法：&lt;/p&gt;
@@ -1034,9 +1034,9 @@
  
  <entry>
    <title>计算机老祖宗齐聚一堂 -- EDWARD ROTHSTEIN</title>
-   <link href="http://readlist.github.com/article/2012/11/06/computer-ancestors-gathered"/>
+   <link href="http://www.readlist.info/article/2012/11/06/computer-ancestors-gathered"/>
    <updated>2012-11-06T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/06/computer-ancestors-gathered</id>
+   <id>http://www.readlist.info/article/2012/11/06/computer-ancestors-gathered</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/culture-arts/2012/11/06/c06computer/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;加州山景——一台1956年的IBM Ramac启动盘和磁盘堆栈摆在面前，不是每个人都会立马心跳加速的。同样，对很多人来说，1959年的Telefunken RAT 700/2模拟计算机就像一台老掉牙的电话接线总机和德国潜艇仪表盘的结合体。像我们这些上了点年纪、又在科技上有点悟性的人，回忆起精巧卓绝的计算尺(slide rule)，嘴角还会泛起微笑。可如果是一台公文包大小却几乎拎不动的1981年产奥斯本计算机，那发光的5吋屏幕还能激起哪怕一丁点怀旧吗？&lt;/p&gt;
@@ -1050,9 +1050,9 @@
  
  <entry>
    <title>以浪子为理想 -- 林语堂</title>
-   <link href="http://readlist.github.com/article/2012/11/03/the-scamp-as-ideal"/>
+   <link href="http://www.readlist.info/article/2012/11/03/the-scamp-as-ideal"/>
    <updated>2012-11-03T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/11/03/the-scamp-as-ideal</id>
+   <id>http://www.readlist.info/article/2012/11/03/the-scamp-as-ideal</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://select.yeeyan.org/view/119281/328999'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;对于传承了中西方精神的我来说，人的尊严体现于以下事实——正是这些事实使人有别于动物。首先，对于求知，他有着游戏人间的好奇之心，也有一种天赋的才能；其二，他怀有梦想以及一种崇高的理想主义（确实，这种理想主义通常是模糊的，纷乱的，自负的，但自有其价值所在）；其三，更重要的是，他懂得用幽默感去修正他的梦想，用更为强健的现实主义约束他的理想主义。最后，他不像动物一样，对环境的变化总是千篇一律地作出机械反应，而是拥有定夺自身反应、以自身意志改变环境的能力和自由。这最后一条也就是说，人性是最不可能简化为机械论的；而人的心思总归是变幻莫测、捉摸不定和估量不透的，能够设法挣脱机械论，摆脱疯狂的心理学家和独身的经济学者试图要强加在人身上的唯物辩证法。因此，人是富于好奇心、想入非非、风趣幽默而反复无常的造化物。&lt;/p&gt;
@@ -1062,9 +1062,9 @@
  
  <entry>
    <title>关于西藏的历史，有什么好的书籍 -- 宋鹏宇</title>
-   <link href="http://readlist.github.com/article/2012/10/28/introduction-of-tibet"/>
+   <link href="http://www.readlist.info/article/2012/10/28/introduction-of-tibet"/>
    <updated>2012-10-28T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/28/introduction-of-tibet</id>
+   <id>http://www.readlist.info/article/2012/10/28/introduction-of-tibet</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.zhihu.com/question/19911075/answer/15298198'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;首先希望楼主不是「生死书」，「雪域圣洁」爱好者。其次我是外行，类似于《 藏传佛教哲学思想资料辑要》之类的玩意的确只是接触。看都没看完过。所以推荐的也是外行能看的书。把跟朋友一起整理的东西拿出来。望海涵。&lt;/p&gt;
@@ -1130,9 +1130,9 @@
  
  <entry>
    <title>我们该如何讨论死刑 -- 何帆</title>
-   <link href="http://readlist.github.com/article/2012/10/28/how-are-we-going-to-discuss-the-death-penalty"/>
+   <link href="http://www.readlist.info/article/2012/10/28/how-are-we-going-to-discuss-the-death-penalty"/>
    <updated>2012-10-28T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/28/how-are-we-going-to-discuss-the-death-penalty</id>
+   <id>http://www.readlist.info/article/2012/10/28/how-are-we-going-to-discuss-the-death-penalty</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/culture-arts/2012/10/23/cc23hefan/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;彼拉多的手&lt;/p&gt;
@@ -1154,9 +1154,9 @@
  
  <entry>
    <title>脑残标准和态度</title>
-   <link href="http://readlist.github.com/article/2012/10/27/brain-damage-standards-and-attitudes"/>
+   <link href="http://www.readlist.info/article/2012/10/27/brain-damage-standards-and-attitudes"/>
    <updated>2012-10-27T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/27/brain-damage-standards-and-attitudes</id>
+   <id>http://www.readlist.info/article/2012/10/27/brain-damage-standards-and-attitudes</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.ifanr.com/dasheng/181428'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;这里，最振聋发聩的关键字，是“态度”，立场——坚持给世界带来更好的东西，而不是迎合和妥协。&lt;/p&gt;
@@ -1172,9 +1172,9 @@
  
  <entry>
    <title>钱不该买什么</title>
-   <link href="http://readlist.github.com/article/2012/10/26/what-money-can%27t-buy"/>
+   <link href="http://www.readlist.info/article/2012/10/26/what-money-can%27t-buy"/>
    <updated>2012-10-26T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/26/what-money-can't-buy</id>
+   <id>http://www.readlist.info/article/2012/10/26/what-money-can't-buy</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://zqb.cyol.com/html/2012-10/24/nw.D110000zgqnb_20121024_1-12.htm'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;美国哈佛大学教授迈克尔·桑德尔去年夏天来了一趟中国。这个一直期待体验胡同的老美逛了北京，去了杭州和上海，还在大学跟年轻人聊了天。不过这趟旅行里他记得最清楚的，却是医院里贩卖门诊号的黄牛党。&lt;/p&gt;
@@ -1209,9 +1209,9 @@
  
  <entry>
    <title>总理家人隐秘的财富 -- David Barboza</title>
-   <link href="http://readlist.github.com/article/2012/10/26/premier-family-secret-wealth"/>
+   <link href="http://www.readlist.info/article/2012/10/26/premier-family-secret-wealth"/>
    <updated>2012-10-26T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/26/premier-family-secret-wealth</id>
+   <id>http://www.readlist.info/article/2012/10/26/premier-family-secret-wealth</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/china/2012/10/26/c26princeling/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;上海——中国总理温家宝的母亲曾是华北的一名教师，他的父亲在毛泽东时代的政治运动中曾被送去养猪。在去年的一次演讲中，温家宝总理说，他的童年被打上了“穷苦、动荡和饥荒”的印记。&lt;/p&gt;
@@ -1245,9 +1245,9 @@
  
  <entry>
    <title>卖"好评",电子出版时代的好生意 -- David Streitfeld</title>
-   <link href="http://readlist.github.com/article/2012/10/25/sell-praise-the-new-business"/>
+   <link href="http://www.readlist.info/article/2012/10/25/sell-praise-the-new-business"/>
    <updated>2012-10-25T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/25/sell-praise-the-new-business</id>
+   <id>http://www.readlist.info/article/2012/10/25/sell-praise-the-new-business</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/culture-arts/2012/10/25/c25bookreview/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;七岁那年，托德·卢瑟福(Todd Rutherford)第一次体会到“供需”的本质。当时他和一群男孩子在一起，其中一个男孩拿着一本《花花公子》四处炫耀，引起大家的一阵窃笑和强烈的兴趣。托德花了5美元买下了那本杂志，把上面的下流照片撕下来，以一张1美元的价格转卖给其他小伙伴。几个小时后他的买卖被父亲取缔了，不过已经挣了20美元。&lt;/p&gt;
@@ -1273,9 +1273,9 @@
  
  <entry>
    <title>一个医生面对的生死 -- 莲子清如许</title>
-   <link href="http://readlist.github.com/article/2012/10/25/a-doctor-facting-life-and-death"/>
+   <link href="http://www.readlist.info/article/2012/10/25/a-doctor-facting-life-and-death"/>
    <updated>2012-10-25T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/25/a-doctor-facting-life-and-death</id>
+   <id>http://www.readlist.info/article/2012/10/25/a-doctor-facting-life-and-death</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/education/2012/10/25/cc25medical/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;我永远记得当一年住院医轮转内科遇到的那个肺癌患者，她刚刚30岁，患晚期肺癌，胸廓变形了，头上有两处颅骨转移，包着白纱布。她整整三个月没有平躺着睡过一觉，只能抱着枕头端坐，间或眯眼打盹。她那位可敬的爱人没日没夜地守着她。我值班的那天，她爱人来找我，说她疼得厉害。我忙去看她，情况已经是相当惨烈：她的血压全靠药物维持（医学上就是临终状态了），每日几乎不进食，整个人都浮肿了，呈现出一种透明的白净，可以透过薄薄的皮肤看见她孱弱的血管仍在顽强地搏动。我听了她的肺，全是痰鸣音，她却没有一点力气咳出来，只能靠护士吸痰，但每吸一次都极度痛苦。肿瘤让她疼痛得神志不清，普通的止痛药无济于事，只能打杜冷丁，至此我才相信书上记载的癌性疼痛有多厉害。&lt;/p&gt;
@@ -1299,9 +1299,9 @@
  
  <entry>
    <title>地球上最酷的公司</title>
-   <link href="http://readlist.github.com/article/2012/10/24/the-coolest-company-on-the-planet"/>
+   <link href="http://www.readlist.info/article/2012/10/24/the-coolest-company-on-the-planet"/>
    <updated>2012-10-24T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/24/the-coolest-company-on-the-planet</id>
+   <id>http://www.readlist.info/article/2012/10/24/the-coolest-company-on-the-planet</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.douban.com/note/28161232/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Patagonia：地球上最酷的公司&lt;/p&gt;
@@ -1333,9 +1333,9 @@
  
  <entry>
    <title>黄河捞尸人 -- 范思鼎</title>
-   <link href="http://readlist.github.com/article/2012/10/22/yellow-corpse"/>
+   <link href="http://www.readlist.info/article/2012/10/22/yellow-corpse"/>
    <updated>2012-10-22T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/22/yellow-corpse</id>
+   <id>http://www.readlist.info/article/2012/10/22/yellow-corpse</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://news.qq.com/zt2012/living/find_bodys.htm'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;凌晨五点，大山依旧沉睡，河流仍在静淌，村庄只有一层因月色而存在的面纱，黑夜主导着全部的氛围。这里是兰州市什川镇下河坪村，37岁的魏职军因手中的电筒而成为环境中唯一的亮点，他要去往下游6公里的水域，在打捞废弃矿水瓶之余，打捞浮在黄河中的尸体。&lt;/p&gt;
@@ -1361,9 +1361,9 @@
  
  <entry>
    <title>穿越西伯利亚的无产阶级列车 -- FINN-OLAF JONES</title>
-   <link href="http://readlist.github.com/article/2012/10/22/the-proletariat-train-across-siberia"/>
+   <link href="http://www.readlist.info/article/2012/10/22/the-proletariat-train-across-siberia"/>
    <updated>2012-10-22T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/22/the-proletariat-train-across-siberia</id>
+   <id>http://www.readlist.info/article/2012/10/22/the-proletariat-train-across-siberia</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/travel/2012/10/17/c17siberian/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;“那时候，我还是个年轻的白俄罗斯姑娘，在深夜的收音机里听说他们在西伯利亚边境修建这条铁路时，产生了一种浪漫的感觉，让我很想搭乘这条铁路线，”我在火车遇到的新朋友，57岁的米拉·高斯拉娃(Mila Kozlova)这样说。我们在包厢里前后摇晃，穿越西伯利亚荒野。她怡然自得地注视着划过车窗的桦树林海，从帆布包里掏出两罐自制的泡菜，加入窗边的桌子上挤得满满的瑞典式自助餐（冷菜杂烩——译注）里。在“贝加尔湖至黑龙江主干线”（Baikal-Amur Mainline railroad，俄罗斯人称之为BAM）上飞驰了一天之后，我们知道这2500英里的路程，将是一道无限量供应的自助餐。&lt;/p&gt;
@@ -1395,9 +1395,9 @@
  
  <entry>
    <title>吴良镛：寻找城市失落的灵魂 -- 孔令钰</title>
-   <link href="http://readlist.github.com/article/2012/10/22/looking-for-the-lost-souls-of-the-city"/>
+   <link href="http://www.readlist.info/article/2012/10/22/looking-for-the-lost-souls-of-the-city"/>
    <updated>2012-10-22T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/22/looking-for-the-lost-souls-of-the-city</id>
+   <id>http://www.readlist.info/article/2012/10/22/looking-for-the-lost-souls-of-the-city</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.infzm.com/content/82005'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;梁思成在1949年9月致北京市市长聂荣臻的信中，谈到建筑师的职责：建筑师是以取得最经济的用材和最高的使用效率，以及居住者在内中工作时的身心健康为目的的。&lt;/p&gt;
@@ -1425,9 +1425,9 @@
  
  <entry>
    <title>别跟我说你在环游中国 -- simonTRA</title>
-   <link href="http://readlist.github.com/article/2012/10/20/dont-tell-me-you-travel-round-the-china"/>
+   <link href="http://www.readlist.info/article/2012/10/20/dont-tell-me-you-travel-round-the-china"/>
    <updated>2012-10-20T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/20/dont-tell-me-you-travel-round-the-china</id>
+   <id>http://www.readlist.info/article/2012/10/20/dont-tell-me-you-travel-round-the-china</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://traveler.ycool.com/post.3397112.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;别跟我说你在环游中国&lt;/p&gt;
@@ -1471,9 +1471,9 @@
  
  <entry>
    <title>中国改革“黄金十年”的遗产 -- 王正鹏</title>
-   <link href="http://readlist.github.com/article/2012/10/17/legacy-of-the-golden-years-of-china-reform"/>
+   <link href="http://www.readlist.info/article/2012/10/17/legacy-of-the-golden-years-of-china-reform"/>
    <updated>2012-10-17T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/17/legacy-of-the-golden-years-of-china-reform</id>
+   <id>http://www.readlist.info/article/2012/10/17/legacy-of-the-golden-years-of-china-reform</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/china/2012/10/16/cc16wangzhengpeng/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;可以说，从1998年亚洲金融危机到2008年全球金融危机间的这十年，是中国经济狂飙突进的十年，是改革运动最后实践的十年，也是中国以世界贸易组织(WTO)语法规则参与全球化的十年。&lt;/p&gt;
@@ -1503,9 +1503,9 @@
  
  <entry>
    <title>红色高棉审判，中越战争三十周年</title>
-   <link href="http://readlist.github.com/article/2012/10/17/khmer-rouge-trial"/>
+   <link href="http://www.readlist.info/article/2012/10/17/khmer-rouge-trial"/>
    <updated>2012-10-17T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/17/khmer-rouge-trial</id>
+   <id>http://www.readlist.info/article/2012/10/17/khmer-rouge-trial</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://b.impanda.org/?p=138'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;昨天，2月17日，有两件事：其一，柬埔寨开始审判前红色高棉领导人；其二，这一天是中越战争30周年的纪念日，虽然两国的官方媒体都刻意保持沉默。两者乍一看完全没什么关系，实际正好相反。中国、越南、柬埔寨、老挝四国，中南半岛纠结在一起的现代史，似乎又有一个可以回顾一下的理由。&lt;/p&gt;
@@ -1515,9 +1515,9 @@
  
  <entry>
    <title>砸车者蔡洋生存碎片 -- 陈鸣</title>
-   <link href="http://readlist.github.com/article/2012/10/12/cai-yang-xian-survival-debris"/>
+   <link href="http://www.readlist.info/article/2012/10/12/cai-yang-xian-survival-debris"/>
    <updated>2012-10-12T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/12/cai-yang-xian-survival-debris</id>
+   <id>http://www.readlist.info/article/2012/10/12/cai-yang-xian-survival-debris</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.infzm.com/content/81726'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;砸穿西安日系车主李建利颅骨的嫌犯已被警方抓获，他是21岁的泥瓦工蔡洋。&lt;/p&gt;
@@ -1531,9 +1531,9 @@
  
  <entry>
    <title>马志明的悲喜剧 -- 石岩</title>
-   <link href="http://readlist.github.com/article/2012/10/11/mazhiming-tragicmedy"/>
+   <link href="http://www.readlist.info/article/2012/10/11/mazhiming-tragicmedy"/>
    <updated>2012-10-11T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/11/mazhiming-tragicmedy</id>
+   <id>http://www.readlist.info/article/2012/10/11/mazhiming-tragicmedy</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.infzm.com/content/81751'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;编者按：相声界的一老一小。&lt;/p&gt;
@@ -1553,9 +1553,9 @@
  
  <entry>
    <title>无套生活 —— 某保险套颠沛流离的一生</title>
-   <link href="http://readlist.github.com/article/2012/10/04/unprotected"/>
+   <link href="http://www.readlist.info/article/2012/10/04/unprotected"/>
    <updated>2012-10-04T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/04/unprotected</id>
+   <id>http://www.readlist.info/article/2012/10/04/unprotected</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://select.yeeyan.org/view/259553/321479'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;我在工厂出生，人类将我塑封，码进包装盒贩卖，三个一盒。&lt;/p&gt;
@@ -1575,9 +1575,9 @@
  
  <entry>
    <title>如何评价今何在的悟空传 -- 张小航</title>
-   <link href="http://readlist.github.com/article/2012/10/01/how-to-evaluate-what-this-wukongzhuan"/>
+   <link href="http://www.readlist.info/article/2012/10/01/how-to-evaluate-what-this-wukongzhuan"/>
    <updated>2012-10-01T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/10/01/how-to-evaluate-what-this-wukongzhuan</id>
+   <id>http://www.readlist.info/article/2012/10/01/how-to-evaluate-what-this-wukongzhuan</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.zhihu.com/question/20500598/answer/15301914'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;今何在，一九七八年出生，写这本书时不过二十二岁左右。这是一本少年为自己而写的小说。字里行间青春期所独有的思愁对于广大同龄读者而言极具杀伤力。&lt;/p&gt;
@@ -1623,9 +1623,9 @@
  
  <entry>
    <title>在河内，过马路是个问题 -- THOMAS FULLER</title>
-   <link href="http://readlist.github.com/article/2012/09/29/across-the-street-is-a-problem-in-hanoi"/>
+   <link href="http://www.readlist.info/article/2012/09/29/across-the-street-is-a-problem-in-hanoi"/>
    <updated>2012-09-29T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/09/29/across-the-street-is-a-problem-in-hanoi</id>
+   <id>http://www.readlist.info/article/2012/09/29/across-the-street-is-a-problem-in-hanoi</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/world/2012/09/29/c29hanoi/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;越南河内——美拉卡斯酒店(Meracus Hotel)是位于河内旧城区内的一个简洁舒适的酒店。凡是入住该酒店的游客都会从前台那里得到一份名为“如何过马路”的提示说明：&lt;/p&gt;
@@ -1655,9 +1655,9 @@
  
  <entry>
    <title>罪与罚的代价 -- 田川</title>
-   <link href="http://readlist.github.com/article/2012/09/28/the-cost-of-crime-and-punishment"/>
+   <link href="http://www.readlist.info/article/2012/09/28/the-cost-of-crime-and-punishment"/>
    <updated>2012-09-28T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/09/28/the-cost-of-crime-and-punishment</id>
+   <id>http://www.readlist.info/article/2012/09/28/the-cost-of-crime-and-punishment</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.dushumashang.com/2179'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;1937年12月13日南京城破之时，10万中国军队拥挤在南京下关码头争相逃命，长江中却无船可渡，站在两岸的日本人像打靶一样，把子弹嵌入中国人的身体里。每当我想象起那场景，都掩不住泪水，那种痛!那种屈辱!&lt;/p&gt;
@@ -1679,9 +1679,9 @@
  
  <entry>
    <title>再见，活佛 -- 杨爽</title>
-   <link href="http://readlist.github.com/article/2012/09/24/goodbye-living-buddha"/>
+   <link href="http://www.readlist.info/article/2012/09/24/goodbye-living-buddha"/>
    <updated>2012-09-24T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/09/24/goodbye-living-buddha</id>
+   <id>http://www.readlist.info/article/2012/09/24/goodbye-living-buddha</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.douban.com/group/topic/15662101/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;一年前的冬天，甘肃郎木寺。&lt;/p&gt;
@@ -1695,9 +1695,9 @@
  
  <entry>
    <title>朋友，你真的想要开一架咖啡馆吗</title>
-   <link href="http://readlist.github.com/article/2012/09/23/do-you-really-want-open-a-coffee-bar"/>
+   <link href="http://www.readlist.info/article/2012/09/23/do-you-really-want-open-a-coffee-bar"/>
    <updated>2012-09-23T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/09/23/do-you-really-want-open-a-coffee-bar</id>
+   <id>http://www.readlist.info/article/2012/09/23/do-you-really-want-open-a-coffee-bar</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://psycofe.diandian.com/post/2012-09-07/40037814867'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;关于这样的话，你一定听过很多次，从一个人嘴里，从不同人嘴里，有时你会惊讶于这世上有这么多人都想开一家属于自己的咖啡馆，甚至是一个对咖啡知之甚少的人也会想着要开一家咖啡馆。&lt;/p&gt;
@@ -1755,9 +1755,9 @@
  
  <entry>
    <title>黑天鹅与白乌鸦——科学与不可知论 -- 菠萝油王子</title>
-   <link href="http://readlist.github.com/article/2012/09/07/science-and-agnostic"/>
+   <link href="http://www.readlist.info/article/2012/09/07/science-and-agnostic"/>
    <updated>2012-09-07T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/09/07/science-and-agnostic</id>
+   <id>http://www.readlist.info/article/2012/09/07/science-and-agnostic</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.douban.com/note/101538069/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;真理的重新定义&lt;/p&gt;
@@ -1779,9 +1779,9 @@
  
  <entry>
    <title>在富士康如何当工人 -- 李伟</title>
-   <link href="http://readlist.github.com/article/2012/09/05/how-to-be-worker-in-fushikang"/>
+   <link href="http://www.readlist.info/article/2012/09/05/how-to-be-worker-in-fushikang"/>
    <updated>2012-09-05T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/09/05/how-to-be-worker-in-fushikang</id>
+   <id>http://www.readlist.info/article/2012/09/05/how-to-be-worker-in-fushikang</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://news.qq.com/a/20100621/000874.htm'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;天桥另一端，就是富士康的入口，那是老板郭台铭的“紫禁城”。有30多万员工在这个约2.3平方公里的厂区内工作。工厂的西门停着一排排通行海关的大货柜车，每天从这里拉走你几乎能想象到的所有电子消费品——最新潮的手机、电脑、显示器和游戏机。在不远的码头上，它们将被转进集装箱，运往世界各地。&lt;/p&gt;
@@ -1795,9 +1795,9 @@
  
  <entry>
    <title>为什么他们要离开中国 -- 吕晓波</title>
-   <link href="http://readlist.github.com/article/2012/09/02/why-they-leave-china"/>
+   <link href="http://www.readlist.info/article/2012/09/02/why-they-leave-china"/>
    <updated>2012-09-02T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/09/02/why-they-leave-china</id>
+   <id>http://www.readlist.info/article/2012/09/02/why-they-leave-china</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/opinion/2012/08/24/cc24lvxiaobo/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;三十年的经济改革发展， 使不少人得益， 整体国民生活水平比三十年前大有提高。同时在近年来开始出现利益分化、阶级分化，一方面贫富不均，一方面城市中产阶级在不断成长。原有的以国家为主导的现代化发展模式和制度机制越来越受到各种阶层和利益集团的质疑甚至挑战。每个阶层都有自己的不满， 都认为政府对自己的照顾不够，不满越来越多 。这不光是草根的弱势群体和城市中产阶级，甚至既得利益集团和富人们也对现有的社会契约越来越没有信心。 对于前者来说，眼前的不公平是最大的不满，而表达不满的方式是个体和群体的上访、抗议。对于后者来说，最大的担忧莫过于未来的不确定性， 而表达没信心的一个方式是用脚投票——“跑路”。&lt;/p&gt;
@@ -1819,9 +1819,9 @@
  
  <entry>
    <title>温州动车事故</title>
-   <link href="http://readlist.github.com/article/2012/09/02/wenzhou-train-accident"/>
+   <link href="http://www.readlist.info/article/2012/09/02/wenzhou-train-accident"/>
    <updated>2012-09-02T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/09/02/wenzhou-train-accident</id>
+   <id>http://www.readlist.info/article/2012/09/02/wenzhou-train-accident</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/china/2012/08/30/c30train/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;原文链接： &lt;a href='http://cn.nytimes.com/article/china/2012/08/30/c30train/'&gt;地址&lt;/a&gt;&lt;/p&gt;</content>
@@ -1829,9 +1829,9 @@
  
  <entry>
    <title>东北下岗职工生活有多惨么 -- Uglee</title>
-   <link href="http://readlist.github.com/article/2012/08/27/how-bad-about-laid-off-worker-in-dongbei"/>
+   <link href="http://www.readlist.info/article/2012/08/27/how-bad-about-laid-off-worker-in-dongbei"/>
    <updated>2012-08-27T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/08/27/how-bad-about-laid-off-worker-in-dongbei</id>
+   <id>http://www.readlist.info/article/2012/08/27/how-bad-about-laid-off-worker-in-dongbei</id>
    <content type="html">&lt;p&gt;原文链接: &lt;a href='http://www.hi-pda.com/forum/viewthread.php?tid=802123&amp;amp;extra=page=1'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;大家都消消气，我说说我知道的情况，久远的记忆未必准确，欢迎知情人士釜正。 我从小在东北长大，90年离开东北去南京读书，之后也经常回家，这种情况持续到2000年前后，再以后就很少回去了。&lt;/p&gt;
@@ -1911,9 +1911,9 @@
  
  <entry>
    <title>amazon首页公开信 -- jeff.bezos</title>
-   <link href="http://readlist.github.com/article/2012/08/27/amazon-first-page-letter-2012"/>
+   <link href="http://www.readlist.info/article/2012/08/27/amazon-first-page-letter-2012"/>
    <updated>2012-08-27T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/08/27/amazon-first-page-letter-2012</id>
+   <id>http://www.readlist.info/article/2012/08/27/amazon-first-page-letter-2012</id>
    <content type="html">&lt;p&gt;Dear Customers,&lt;/p&gt;
 
 &lt;p&gt;In 2005, we launched a program called Amazon Prime. For just $79 a year, Prime members got unlimited Free Two-Day Shipping on a million different products. Prime was an outstanding offer and many people joined the program.&lt;/p&gt;
@@ -1929,9 +1929,9 @@
  
  <entry>
    <title>教育的意义 -- 王安忆</title>
-   <link href="http://readlist.github.com/article/2012/08/07/the-meaning-of-teach"/>
+   <link href="http://www.readlist.info/article/2012/08/07/the-meaning-of-teach"/>
    <updated>2012-08-07T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/08/07/the-meaning-of-teach</id>
+   <id>http://www.readlist.info/article/2012/08/07/the-meaning-of-teach</id>
    <content type="html">&lt;p&gt;原文链接：&lt;a href='http://www.dfdaily.com/html/1170/2012/8/5/837451.shtml'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;原文部分：&lt;/p&gt;
@@ -1953,9 +1953,9 @@
  
  <entry>
    <title>大陆人如何去香港结婚 -- 师北宸</title>
-   <link href="http://readlist.github.com/article/2012/08/07/motherland-people-marry-in-hk"/>
+   <link href="http://www.readlist.info/article/2012/08/07/motherland-people-marry-in-hk"/>
    <updated>2012-08-07T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/08/07/motherland-people-marry-in-hk</id>
+   <id>http://www.readlist.info/article/2012/08/07/motherland-people-marry-in-hk</id>
    <content type="html">&lt;p&gt;原文链接：&lt;a href='http://www.shibeichen.com/post/11306688210'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;纯属好玩的收藏！&lt;/p&gt;</content>
@@ -1963,9 +1963,9 @@
  
  <entry>
    <title>第一次纹身的感觉如何 -- 梁欢</title>
-   <link href="http://readlist.github.com/article/2012/08/07/first-tatto-feeling"/>
+   <link href="http://www.readlist.info/article/2012/08/07/first-tatto-feeling"/>
    <updated>2012-08-07T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/08/07/first-tatto-feeling</id>
+   <id>http://www.readlist.info/article/2012/08/07/first-tatto-feeling</id>
    <content type="html">&lt;p&gt;原文链接：&lt;a href='http://www.zhihu.com/question/20393535/answer/15000382'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;原文部分：&lt;/p&gt;
@@ -1979,9 +1979,9 @@
  
  <entry>
    <title>穷逼就别去古镇了 -- 王坏</title>
-   <link href="http://readlist.github.com/article/2012/07/30/poor-man-do-not-go-to-ancient-town"/>
+   <link href="http://www.readlist.info/article/2012/07/30/poor-man-do-not-go-to-ancient-town"/>
    <updated>2012-07-30T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/07/30/poor-man-do-not-go-to-ancient-town</id>
+   <id>http://www.readlist.info/article/2012/07/30/poor-man-do-not-go-to-ancient-town</id>
    <content type="html">&lt;p&gt;原文链接：&lt;a href='http://www.douban.com/note/227016058'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;每个古镇都流传着这样一个传说，某人从繁华的大都市漫步到丽江（凤凰/西塘/乌镇）被这里的美景和缓慢的节奏打动，便辞掉了年薪百万（十万/千万）的工作，留在古镇，洗练内心，追寻生活的真意。&lt;/p&gt;
@@ -2025,9 +2025,9 @@
  
  <entry>
    <title>这些年我的不足 -- 无网不剩</title>
-   <link href="http://readlist.github.com/article/2012/07/28/lack-of-life"/>
+   <link href="http://www.readlist.info/article/2012/07/28/lack-of-life"/>
    <updated>2012-07-28T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/07/28/lack-of-life</id>
+   <id>http://www.readlist.info/article/2012/07/28/lack-of-life</id>
    <content type="html">&lt;p&gt;原文链接：&lt;a href='http://blog.leezhong.com/life/2012/06/03/my-shortages.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;如果把人生比作跑步的话，我们都在用自己的节奏和姿势在完成比赛。这些跑步的技巧可能是小时候从老师，朋友，家人那得来的。随着时间的流逝，我们习惯了这种跑步的技能，看见那些跑得快的，会羡慕；跑得慢的，会不屑；跑得别扭的，会当作笑料。但是自己跑得怎么样，却很少关心。为什么要跑这条道？为什么这么慢？为什么这么累？&lt;/p&gt;
@@ -2039,9 +2039,9 @@
  
  <entry>
    <title>背包客的精神迷失 -- 老余</title>
-   <link href="http://readlist.github.com/article/2012/07/27/lost-of-backpacker"/>
+   <link href="http://www.readlist.info/article/2012/07/27/lost-of-backpacker"/>
    <updated>2012-07-27T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/07/27/lost-of-backpacker</id>
+   <id>http://www.readlist.info/article/2012/07/27/lost-of-backpacker</id>
    <content type="html">&lt;p&gt;户外登山与长途旅行其实是两个概念的东西，前者是一种体育运动，而后者大约属于人文地理体验，属于旅游范畴。磨房长假远行推崇的理念是自助式体验旅行，跟旅行社的团队旅游是两码事。何谓背包客，就是自己（也可能是几个人的小组合）背着背包，自己计划行程路线，自己解决沿途的交通、食宿，甚至有可能会风餐露宿，所以才要背上背包，自己搞定一切，没有人为你负责。跟团旅游则大不一样，虽然都是出去游山玩水，跟团几乎不用自己管任何事情，只要出发之前知道自己的目的地即可，交完钱以后，衣食住行基本有导游包了，全程可以享受保姆式的服务，回来不爽了还可以投诉。两者在经济上肯定有差别，但我看这不是主要问题，最根本的原因是两者的过程有巨大的区别。&lt;/p&gt;
 
 &lt;p&gt;中国人解决好衣食问题也不过是近二十年来的事情，旅游发展大约是跟经济发展是同步的。而背包客的旅游方式则盛行时间不长，最早的背包客是被大多人认为是另类，是自找苦吃，近年来开始成为一种所谓的时尚，但随着时尚元素的介入，背包客的精神也开始慢慢被侵蚀。&lt;/p&gt;
@@ -2101,9 +2101,9 @@
  
  <entry>
    <title>给明年依然年轻的我们 -- 奶牛Denny</title>
-   <link href="http://readlist.github.com/article/2012/06/07/for-tomorrow"/>
+   <link href="http://www.readlist.info/article/2012/06/07/for-tomorrow"/>
    <updated>2012-06-07T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/06/07/for-tomorrow</id>
+   <id>http://www.readlist.info/article/2012/06/07/for-tomorrow</id>
    <content type="html">&lt;p&gt;原文链接：&lt;a href='http://blog.jobbole.com/19828/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;人类的需求是很奇特的。我们吃第一个面包的时候的幸福感，和我们吃第一千个面包的时候的幸福感，是差不多的，前者甚至比后者还多一些。同样的感觉适用于我们赚到的第一笔一万元和第一笔一千万元，第一辆十万的车和第一辆一千万的车，第一个女孩和第十个女人，第一个男生和第十个男人。“生理需求、安全需求、归属与爱的需求、尊重的需求和自我实现的需求”-在著名的马斯洛五大需求中，你从任意一个细分需求里获得的幸福感只能有那么多。&lt;/p&gt;
@@ -2135,9 +2135,9 @@
  
  <entry>
    <title>关于爱情的两个偏见 -- 黄菡</title>
-   <link href="http://readlist.github.com/article/2012/05/08/two-prejudices-about-love"/>
+   <link href="http://www.readlist.info/article/2012/05/08/two-prejudices-about-love"/>
    <updated>2012-05-08T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/05/08/two-prejudices-about-love</id>
+   <id>http://www.readlist.info/article/2012/05/08/two-prejudices-about-love</id>
    <content type="html">&lt;p&gt;原文链接：&lt;a href='http://quyinling.blog.163.com/blog/static/361655120124232048123/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;基本上来讲，我在生活中比较循规蹈矩、按部就班，生活态度比较谨慎，价值观念相对保守，就是大家相对说普通，甚至有点平庸的人。但是我觉得，尽管我们社会在日益不屑于人们的守正，总是崇尚有些人的出奇。虽然从理论上讲人可以分为左中右，男和女，老和少，我相信大多数人都是普通人，只不过大多数普通人喜欢在大众中沉默。 &amp;#8230;..&lt;/p&gt;
@@ -2149,9 +2149,9 @@
  
  <entry>
    <title>每个角落的人都过着相似的人生 -- 阅读时间</title>
-   <link href="http://readlist.github.com/article/2012/05/08/Everyone-just-have-similar-life"/>
+   <link href="http://www.readlist.info/article/2012/05/08/Everyone-just-have-similar-life"/>
    <updated>2012-05-08T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/05/08/Everyone-just-have-similar-life</id>
+   <id>http://www.readlist.info/article/2012/05/08/Everyone-just-have-similar-life</id>
    <content type="html">&lt;p&gt;原文链接：&lt;a href='http://www.timetimetime.net/yuedu/811.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;5.旅行的意义是什么？&lt;/p&gt;
@@ -2175,9 +2175,9 @@
  
  <entry>
    <title>活者的意义 -- 方爷</title>
-   <link href="http://readlist.github.com/article/2012/04/20/meaing-of-live"/>
+   <link href="http://www.readlist.info/article/2012/04/20/meaing-of-live"/>
    <updated>2012-04-20T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/04/20/meaing-of-live</id>
+   <id>http://www.readlist.info/article/2012/04/20/meaing-of-live</id>
    <content type="html">&lt;p&gt;原文链接：&lt;a href='http://www.zreading.cn/archives/2892.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;我们要用多大的代价，才能认清活着的意义。&lt;/p&gt;
@@ -2195,9 +2195,9 @@
  
  <entry>
    <title>你会阅读吗 -- berg</title>
-   <link href="http://readlist.github.com/article/2012/04/17/efficiency-reading"/>
+   <link href="http://www.readlist.info/article/2012/04/17/efficiency-reading"/>
    <updated>2012-04-17T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/04/17/efficiency-reading</id>
+   <id>http://www.readlist.info/article/2012/04/17/efficiency-reading</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://www.cnberg.com/archive/efficiency-reading/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;阅读的重要目的是为了增进理解力，并且有判断地进行接受，而不仅仅是获取资讯。阅读是一门需要不断练习的技巧。 针对“阅读”这个话题，本文将“有效地阅读”分成三个阶段，依此介绍了粗读、精读、评论、提问四个递进的阅读层次，以帮助读者有效地阅读。此外，还介绍了如何阅读特定种类的书，以及主题阅读的概念和方法。希望对你有用。&lt;/p&gt;
@@ -2207,9 +2207,9 @@
  
  <entry>
    <title>钱钟书是怎样做读书笔记的 -- 杨绛</title>
-   <link href="http://readlist.github.com/article/2012/04/17/Make-reading-note"/>
+   <link href="http://www.readlist.info/article/2012/04/17/Make-reading-note"/>
    <updated>2012-04-17T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/04/17/Make-reading-note</id>
+   <id>http://www.readlist.info/article/2012/04/17/Make-reading-note</id>
    <content type="html">&lt;p&gt;原文链接:&lt;a href='http://blog.sina.com.cn/s/blog_5e9f35ea0102dxnn.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;他做笔记的习惯是在牛津大学图书馆(Bodleian——他译为饱蠹楼)读书时养成的。因为饱蠹楼的图书向例不外借。到那里去读书，只准携带笔记本和铅笔，书上不准留下任何痕迹，只能边读边记。钟书的“饱蠹楼书记”第一册上写着如下几句：“廿五年(一九三六年)二月起，与绛约间日赴大学图书馆读书，各携笔札，露钞雪纂、聊补三箧之无，铁画银钩，虚说千毫之秃，是为引。”第二册有题辞如下：“心如椰子纳群书，金匮青箱总不如，提要勾玄留指爪，忘筌他日并无鱼。(默存题，季康以狼鸡杂毫笔书于灯下)”这都是用毛笔写的，显然不是在饱蠹楼边读边记，而是经过反刍，然后写成的笔记。&lt;/p&gt;
@@ -2219,9 +2219,9 @@
  
  <entry>
    <title>巴菲特2011年致伯克希尔股东的信(全文)</title>
-   <link href="http://readlist.github.com/collect/2012/04/16/Warren-Buffett-2011"/>
+   <link href="http://www.readlist.info/collect/2012/04/16/Warren-Buffett-2011"/>
    <updated>2012-04-16T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/collect/2012/04/16/Warren-Buffett-2011</id>
+   <id>http://www.readlist.info/collect/2012/04/16/Warren-Buffett-2011</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='巴菲特2011年致伯克希尔股东的信'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;伯克希尔公司董事长巴菲特（Warren Buffett）2月26日发布了长达27页的致股东的信，他在信中谈到关于伯克希尔的业务模式与方向，以及自己的接班人问题，同时透露包括高盛（GS，161.31，-1.51%）与通用电气（GE，20.25，-3.20%）今年将回购伯克希尔持有的优先股，以下为巴菲特致股东信的全文。&lt;/p&gt;
@@ -2231,9 +2231,9 @@
  
  <entry>
    <title>缅怀乔布斯 -- virushuo</title>
-   <link href="http://readlist.github.com/article/2012/04/16/Think-different-be-yourself"/>
+   <link href="http://www.readlist.info/article/2012/04/16/Think-different-be-yourself"/>
    <updated>2012-04-16T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/04/16/Think-different-be-yourself</id>
+   <id>http://www.readlist.info/article/2012/04/16/Think-different-be-yourself</id>
    <content type="html">&lt;p&gt;原文链接：&lt;a href='http://blog.devep.net/virushuo/2011/10/07/think_different_be_yourself.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;在苹果的世界中，创新远未到终点，苹果在之前很多年投资了很多技术公司，包括这次我们见到的siri，还有传说到未见产品的液体金属 Liquidmetal Technologies ，终有一天，这些技术会足够成熟可用，变成产品到达我们面前，那一刻，我们的生活会再次随之改变，如同苹果宣传资料上最喜欢写的那句&amp;#8221;再一次，改变世界&amp;#8221;。苹果的疆域扩展也未到终点，我们能看到的领域还有一贯有积累的教育市场，完成了准备工作的企业市场，还有面对客厅的Apple TV。未来还很广阔也足够令人激动，做为开发者或者创业者，我们对乔布斯最好的纪念是记住Be youself，做你喜欢的事，做和其他人不一样的事，改变这个不完美的世界。&lt;/p&gt;
@@ -2243,9 +2243,9 @@
  
  <entry>
    <title>我在斯坦福学到了什么 -- 黄斌</title>
-   <link href="http://readlist.github.com/article/2012/04/12/what-i-learned-at-standord"/>
+   <link href="http://www.readlist.info/article/2012/04/12/what-i-learned-at-standord"/>
    <updated>2012-04-12T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/04/12/what-i-learned-at-standord</id>
+   <id>http://www.readlist.info/article/2012/04/12/what-i-learned-at-standord</id>
    <content type="html">&lt;p&gt;原文链接:&lt;a href='http://www.binhuang.org/?p=1785'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;在开学前学校和我联系，让我自愿申请一个Homestay项目，如果参加，可以在开学日期前的两周先到美国，住在一个随机分配的校友的家里。就这样我认识了Dr. Gustavson，他和太太以及两个孩子都是毕业于斯坦福大学，他本人原来是物理学家，在著名的斯坦福大学线性加速器中心工作，研究黑洞成因什么的，因为获得了很多专利，40多岁就退休了。一直和太太周游世界，每年都去无数个国家。平时他是NASA的兼职顾问，只要在家回复一些邮件，然后向NASA按小时收费。我问他如何计费，他说一小时收费是850美元，他每个月自己估计一个花在回复邮件的小时数，给NASA一个数字就行了。他很认真地告诉我，他不会在这个工作上花太多时间，因为除了旅游，他更愿意花时间在另一个工作上，那就是每周平均至少10个小时，在斯坦福大学的国际学生中心陪外国留学生练口语。这个当然是没有任何报酬的。后来我之后每次在国际学生中心，看到Gustavson老先生在一板一眼地纠正各国学生发音和语法的时候，我都在心里感叹，这可是每小时850美元的外教啊！&lt;/p&gt;
@@ -2255,9 +2255,9 @@
  
  <entry>
    <title>医生的临终选择为何与众不同？-华尔街日报</title>
-   <link href="http://readlist.github.com/article/2012/04/12/the-doctor-death-choose-different"/>
+   <link href="http://www.readlist.info/article/2012/04/12/the-doctor-death-choose-different"/>
    <updated>2012-04-12T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/04/12/the-doctor-death-choose-different</id>
+   <id>http://www.readlist.info/article/2012/04/12/the-doctor-death-choose-different</id>
    <content type="html">&lt;p&gt;原文链接：&lt;a href='http://cn.wsj.com/gb/20120307/hea074016.asp'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;这不是我们喜欢谈论的一个话题，但这无法回避：医生也会死。同其他大多数人相比，他们的与众不同之处并不在于他们得到了更多的治疗，相反是更少。他们确切地知道接下来会发生什么，他们知道他们面临的选择是什么，而且他们通常有能力得到任何他们希望得到的医疗帮助。然而，他们却倾向于选择以一种安详而优雅的方式离开。&lt;/p&gt;
@@ -2271,9 +2271,9 @@
  
  <entry>
    <title>不来不去 擦擦（sa-chaya）的世界</title>
-   <link href="http://readlist.github.com/article/2012/04/11/World-of-sa-chaya"/>
+   <link href="http://www.readlist.info/article/2012/04/11/World-of-sa-chaya"/>
    <updated>2012-04-11T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/04/11/World-of-sa-chaya</id>
+   <id>http://www.readlist.info/article/2012/04/11/World-of-sa-chaya</id>
    <content type="html">&lt;p&gt;原文链接:&lt;a href='http://www.chinalifemagazine.com/Web/ShowNews.asp?id=2075'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;一花一世界，一叶一如来。擦擦所构成的神佛世界，古往今来，恐怕无法计数。正是藏民族虔诚的信仰，将无数个神佛的世界安放在了雪域的神山与圣湖之下，村镇与寺庙之上。风的轻响，水的波纹，是无数风擦水擦中神佛的示现。在谜一样的雪域高原，一切即一，一即一切。每一粒泥尘和药屑，每一缕流水与空气，都是庄严佛国完全的体现。地、水、火、风的流动，将它们推向世界的各个角落，伏藏在生起异灭的无尽变化中。只要听到风中的吟唱，恒河沙数般的泥尘与药屑，流水与空气就会让流转的生死时光停止，再现出佛国庄严宁静的永恒时刻。&lt;/p&gt;
@@ -2283,9 +2283,9 @@
  
  <entry>
    <title>设计的踪迹</title>
-   <link href="http://readlist.github.com/article/2012/04/11/Trance-of-the-design"/>
+   <link href="http://www.readlist.info/article/2012/04/11/Trance-of-the-design"/>
    <updated>2012-04-11T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/04/11/Trance-of-the-design</id>
+   <id>http://www.readlist.info/article/2012/04/11/Trance-of-the-design</id>
    <content type="html">&lt;p&gt;原文链接：&lt;a href='http://www.hi-id.com/?p=2716'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;人们都在说“故乡沦陷”，我倒没有太深的感受，不过作为一直在回乡的人，真切可以体会到那种被抽空后那种奄奄一息又大口喘气的干燥和虚弱，那些原先散落在乡间与人家的气息似乎是全被抽走了。或许是因为长大了离乡了，以现在的身高和视角看到的是现实的东西，的确如此，在小时候看到的包围着自己的无边的世界，你用 Google Maps 去看，会吓一大跳，以前是何等的夜郎自大。但这种抽空是确实的，当身体在儿时那无边世界中移动的时候，你会发现旁边的道路、田野、河流和山峰，它们将失去名字、失去故事、失去传说，这些气息是无法写进地方志无法被 Google 扫描入库的，它早已经失去传承的意义。&lt;/p&gt;
@@ -2299,9 +2299,9 @@
  
  <entry>
    <title>今日设计中的装饰</title>
-   <link href="http://readlist.github.com/article/2012/04/11/Today-the-design-of-decoratvice"/>
+   <link href="http://www.readlist.info/article/2012/04/11/Today-the-design-of-decoratvice"/>
    <updated>2012-04-11T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/04/11/Today-the-design-of-decoratvice</id>
+   <id>http://www.readlist.info/article/2012/04/11/Today-the-design-of-decoratvice</id>
    <content type="html">&lt;p&gt;原文链接：&lt;a href='http://www.hi-id.com/?p=2741'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;大多数设计师都会陷入或曾经陷于一种两难的境地——“事权贵”还是“开心颜”，是放下身段还是保持清高，是与民同乐还是引领大众，是怀着一颗功利心还是追随自己的内心，是去投好消费者还是坚持自我，是把用户的喜好放在第一位还是把自己的喜好放在第一位，是满足于世俗还是追求纯粹，是这样就好还是做得更好……如果一直往下问，总能作出一个选择，前者或者后者，如果两者都不是，那么就是看待问题的角度有问题了，需要找一个可以回避这种需要作出非此即彼的选择的角度。就像 Tim Cook 在今年8月份上任 Apple 公司 CEO 时说的：“制造世界上最好的产品，让我们的消费者感到愉悦，让我们员工为他所作的工作感到无比自豪。”&lt;/p&gt;
@@ -2315,9 +2315,9 @@
  
  <entry>
    <title>越狱、折腾与创造 -- Lawrence Li</title>
-   <link href="http://readlist.github.com/article/2012/03/22/jailbreak-tinker-create"/>
+   <link href="http://www.readlist.info/article/2012/03/22/jailbreak-tinker-create"/>
    <updated>2012-03-22T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/03/22/jailbreak-tinker-create</id>
+   <id>http://www.readlist.info/article/2012/03/22/jailbreak-tinker-create</id>
    <content type="html">&lt;p&gt;原文链接：&lt;a href='http://apple4.us/2010/10/jailbreak-tinker-create.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;原文摘抄：&lt;/strong&gt;&lt;/p&gt;
@@ -2335,9 +2335,9 @@
  
  <entry>
    <title>回到拉萨 -- 毛利</title>
-   <link href="http://readlist.github.com/article/2012/03/22/back-to-lhasa"/>
+   <link href="http://www.readlist.info/article/2012/03/22/back-to-lhasa"/>
    <updated>2012-03-22T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/03/22/back-to-lhasa</id>
+   <id>http://www.readlist.info/article/2012/03/22/back-to-lhasa</id>
    <content type="html">&lt;p&gt;原文链接： &lt;a href='http://someng7.blog.163.com/blog/static/122323066201181801610177/'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;原文摘抄：&lt;/strong&gt;&lt;/p&gt;
@@ -2363,9 +2363,9 @@
  
  <entry>
    <title>苦逼了就辞职弃学去旅行 -- 一直特立独行的猫</title>
-   <link href="http://readlist.github.com/article/2012/03/21/gap-year"/>
+   <link href="http://www.readlist.info/article/2012/03/21/gap-year"/>
    <updated>2012-03-21T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/03/21/gap-year</id>
+   <id>http://www.readlist.info/article/2012/03/21/gap-year</id>
    <content type="html">&lt;p&gt;原文鏈接：&lt;a href='http://blog.sina.com.cn/s/blog_5b1973430102dvlj.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;原文節選：&lt;/strong&gt;&lt;/p&gt;
@@ -2393,9 +2393,9 @@
  
  <entry>
    <title>书是可以读完的-- 梁文道</title>
-   <link href="http://readlist.github.com/article/2012/03/21/Book-can-read"/>
+   <link href="http://www.readlist.info/article/2012/03/21/Book-can-read"/>
    <updated>2012-03-21T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/03/21/Book-can-read</id>
+   <id>http://www.readlist.info/article/2012/03/21/Book-can-read</id>
    <content type="html">&lt;p&gt;原文链接：&lt;a href='http://www.21ccom.net/articles/read/article_2010082316501.html'&gt;地址&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;原文摘抄：&lt;/strong&gt;&lt;/p&gt;
@@ -2419,9 +2419,9 @@
  
  <entry>
    <title>修真世界架构</title>
-   <link href="http://readlist.github.com/article/2012/03/01/fantasy-framework"/>
+   <link href="http://www.readlist.info/article/2012/03/01/fantasy-framework"/>
    <updated>2012-03-01T00:00:00+08:00</updated>
-   <id>http://readlist.github.com/article/2012/03/01/fantasy-framework</id>
+   <id>http://www.readlist.info/article/2012/03/01/fantasy-framework</id>
    <content type="html">&lt;p&gt;现在玄幻小说很流行，但是好奇这个整个设定是如何形成的？&lt;/p&gt;
 
 &lt;p&gt;综合一些帖子，总结如下：&lt;/p&gt;

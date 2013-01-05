@@ -8,7 +8,7 @@ title : 阅读列表
 author :
   name : readlist
   
-production_url : http://readlist.github.com
+production_url : http://www.readlist.info
 JB :
   version : 0.2.13
   BASE_PATH : false
