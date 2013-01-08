@@ -2,7 +2,7 @@
 layout : post
 title :  生命的摆渡人 -- 赵佳月
 category : article
-tags : [生命, 南方人物周刊，殡葬, 摆渡人, 意识, 死亡, 南京]
+tags : [生命, 南方人物周刊, 殡葬, 摆渡人, 意识, 死亡, 南京]
 ---
 
 原文链接： [地址](http://www.nfpeople.com/News-detail-item-3444.html)
