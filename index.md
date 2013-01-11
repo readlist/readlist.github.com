@@ -1,6 +1,6 @@
 ---
 layout: page
-title: read for readling
+title: reading
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
