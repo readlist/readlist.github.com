@@ -2,7 +2,7 @@
 layout : post
 title : 3600万中国人的墓碑 
 category : article
-tags : [饥荒,墓碑,极权,nytimes]
+tags : [饥荒, 墓碑, 极权, nytimes]
 ---
 
 原文链接： [地址](http://cn.nytimes.com/article/culture-arts/2012/12/11/c11mirsky/)

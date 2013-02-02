@@ -2,7 +2,7 @@
 layout : post
 title : 台北一桩强拆案背后的“革命” 
 category : article
-tags : [台北,拆迁,士林王家,革命,nytimes]
+tags : [台北, 拆迁, 士林王家, 革命, nytimes]
 ---
 
 原文链接： [地址](http://cn.nytimes.com/article/culture-arts/2013/01/24/cc24taiwan/)

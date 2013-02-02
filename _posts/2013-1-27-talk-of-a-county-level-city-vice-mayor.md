@@ -2,7 +2,7 @@
 layout : post
 title : 聊聊某县级市的副市长 -- MRandson
 category : article
-tags : [MRandson,董海涛,公开遴选]
+tags : [MRandson, 董海涛, 公开遴选]
 ---
 
 原文链接： [地址](http://blog.sina.com.cn/s/blog_67d9a2620102e73k.html)

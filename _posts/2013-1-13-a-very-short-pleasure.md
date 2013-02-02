@@ -2,7 +2,7 @@
 layout : post
 title : 短暂的快感
 category : article
-tags : [快感,内心,无聊,刺激,信赖]
+tags : [快感, 内心, 无聊, 刺激, 信赖]
 ---
 
 原文链接： [地址](http://michael.nona.name/archives/a-very-short-pleasure/)

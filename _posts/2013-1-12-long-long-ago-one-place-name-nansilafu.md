@@ -2,7 +2,7 @@
 layout : post
 title : 很久很久以前，有一个国家叫南斯拉夫
 category : article
-tags : [贝尔格莱德,北约,轰炸,南斯拉夫]
+tags : [贝尔格莱德, 北约, 轰炸, 南斯拉夫]
 ---
 
 原文链接： [地址](http://cn.nytimes.com/article/travel/2013/01/09/cc09easteurope/)

@@ -2,7 +2,7 @@
 layout : post
 title : 现在，我的钥匙哪儿去了？ 
 category : article
-tags : [记忆力,训练,美国,yeeyan]
+tags : [记忆力, 训练, 美国, yeeyan]
 ---
 
 原文链接： [地址](http://select.yeeyan.org/view/14748/336962)

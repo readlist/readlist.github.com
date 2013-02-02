@@ -2,7 +2,7 @@
 layout : post
 title : 程序与正义
 category : article
-tags : [程序,正义,法律]
+tags : [程序, 正义, 法律]
 ---
 
 原文链接： [地址](http://blog.sina.com.cn/s/blog_67d9a2620102e6lr.html)

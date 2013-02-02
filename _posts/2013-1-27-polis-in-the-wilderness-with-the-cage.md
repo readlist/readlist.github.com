@@ -2,7 +2,7 @@
 layout : post
 title : 城邦：在荒原与囚笼之间
 category : article
-tags : [荒原,囚笼,自由,城邦]
+tags : [荒原, 囚笼, 自由, 城邦]
 ---
 
 原文链接： [地址](http://cn.nytimes.com/article/china/2013/01/26/cc26xiaohan)

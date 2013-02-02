@@ -2,7 +2,7 @@
 layout : post
 title : 佛教艺术中的沙 -- 徐宥
 category : article
-tags : [佛教 枯山水 曹洞 临济]
+tags : [佛教, 枯山水, 曹洞, 临济]
 ---
 
 原文链接： [地址](http://blog.youxu.info/2012/10/24/sands-in-buddhism/)

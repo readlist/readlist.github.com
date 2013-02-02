@@ -2,7 +2,7 @@
 layout : post
 title :  当医者面对自身死亡 --  Ken Murray
 category : article
-tags : [yeeyan,医生,死亡,尊严]
+tags : [yeeyan, 医生, 死亡, 尊严]
 ---
 
 原文链接： [地址](http://select.yeeyan.org/view/254011/237994)

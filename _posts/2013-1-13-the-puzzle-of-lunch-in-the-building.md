@@ -2,7 +2,7 @@
 layout : post
 title : “大厦之巅的午餐”背后的谜团 
 category : article
-tags : [帝国大厦,吃午饭的男人,纽约,nytimes]
+tags : [帝国大厦, 吃午饭的男人, 纽约, nytimes]
 ---
 
 原文链接： [地址](http://cn.nytimes.com/article/culture-arts/2012/12/12/c12lunch/)

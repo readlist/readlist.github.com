@@ -2,7 +2,7 @@
 layout : post
 title :  总理家人隐秘的财富 -- David Barboza
 category : article
-tags : [nytime, secret]
+tags : [nytimes, secret, wealth]
 ---
 
 原文链接： [地址](http://cn.nytimes.com/article/china/2012/10/26/c26princeling/)

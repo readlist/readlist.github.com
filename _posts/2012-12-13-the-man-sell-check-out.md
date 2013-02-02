@@ -2,7 +2,7 @@
 layout : post
 title : 卖切糕的年轻人 -- 范承刚
 category : article
-tags : [ 范承刚, 新疆,农村,就业,玛仁糖,喀什,]
+tags : [ 范承刚, 新疆, 农村, 就业, 玛仁糖, 喀什,]
 ---
 
 原文链接： [地址](http://www.infzm.com/content/83850)

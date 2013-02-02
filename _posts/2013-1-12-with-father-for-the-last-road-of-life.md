@@ -2,7 +2,7 @@
 layout : post
 title : 陪伴父亲走过人生最后一程的艰难之路 
 category : article
-tags : [临终关怀,艰难,止痛,nytimes]
+tags : [临终关怀, 艰难, 止痛, nytimes]
 ---
 
 原文链接： [地址](http://cn.nytimes.com/article/education/2012/12/06/cc06patient/)

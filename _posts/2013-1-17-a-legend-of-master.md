@@ -2,7 +2,7 @@
 layout : post
 title : 一代宗师，像俄罗斯套娃一样套起记忆
 category : article
-tags : [王家卫,俄罗斯套娃,记忆力,香港,编剧]
+tags : [王家卫, 俄罗斯套娃, 记忆力, 香港, 编剧]
 ---
 
 原文链接： [地址](http://cn.nytimes.com/article/culture-arts/2013/01/17/cc17yidaizongshi/)
