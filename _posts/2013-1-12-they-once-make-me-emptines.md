@@ -2,7 +2,7 @@
 layout : post
 title : 他们曾使我空虚——影响王朔的10个短篇
 category : article
-tags : [空虚,王朔,殇情,调侃,douban]
+tags : [空虚, 王朔, 殇情, 调侃, douban]
 ---
 
 原文链接： [地址](http://www.douban.com/group/topic/19019649/)

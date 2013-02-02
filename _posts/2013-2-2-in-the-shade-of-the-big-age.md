@@ -2,7 +2,7 @@
 layout : post
 title : 大时代的背影之下
 category : article
-tags : [张大春,一代宗师,民国历史,武林,命运]
+tags : [张大春, 一代宗师, 民国历史, 武林, 命运]
 ---
 
 原文链接： [地址](http://blog.devep.net/virushuo/2013/01/21/post_83.html)

@@ -2,7 +2,7 @@
 layout : post
 title : 金士杰：剧场里的苦行僧 -- 熊廖
 category : article
-tags : [famous,bjnews, 剧场,taiwan]
+tags : [famous, bjnews, 剧场, taiwan]
 ---
 
 原文链接： [地址](http://famous.bjnews.com.cn/dic.php?id=2364)

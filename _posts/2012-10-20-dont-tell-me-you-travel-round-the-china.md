@@ -2,7 +2,7 @@
 layout : post
 title :  别跟我说你在环游中国 -- simonTRA
 category : article
-tags : [travel,china]
+tags : [travel, china]
 ---
 
 原文链接： [地址](http://traveler.ycool.com/post.3397112.html)

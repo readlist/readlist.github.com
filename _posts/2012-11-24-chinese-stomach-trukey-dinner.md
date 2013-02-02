@@ -2,7 +2,7 @@
 layout : post
 title : 当中国胃遇到火鸡大餐 -- 高雨莘
 category : article
-tags : [nytimes, stomach, trukey,dinner]
+tags : [nytimes, stomach, trukey, dinner]
 ---
 
 原文链接： [地址](http://cn.nytimes.com/article/education/2012/11/24/cc24highschool/)

@@ -2,7 +2,7 @@
 layout : post
 title : 哈莉·贝瑞借《云图》寻找宁静
 category : article
-tags : [哈莉·贝瑞,Halle Berry,黑人,混血,nytimes]
+tags : [哈莉·贝瑞, Halle Berry, 黑人, 混血, nytimes]
 ---
 
 原文链接： [地址](http://cn.nytimes.com/article/culture-arts/2013/02/02/c02berry/)

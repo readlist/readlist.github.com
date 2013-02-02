@@ -2,7 +2,7 @@
 layout : post
 title : 循着总书记的足迹下乡扶贫
 category : article
-tags : [nytimes,习近平,赤贫,骆驼湾]
+tags : [nytimes, 习近平, 赤贫, 骆驼湾]
 ---
 
 原文链接： [地址](http://cn.nytimes.com/article/china/2013/01/28/c28hebei/)

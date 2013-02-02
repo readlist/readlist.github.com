@@ -2,7 +2,7 @@
 layout : post
 title : 急诊室医生的本职工作是什么？
 category : article
-tags : [急诊室,医生,医疗制度,nytimes]
+tags : [急诊室, 医生, 医疗制度, nytimes]
 ---
 
 原文链接： [地址](http://cn.nytimes.com/article/education/2013/02/01/cc01yuying/)

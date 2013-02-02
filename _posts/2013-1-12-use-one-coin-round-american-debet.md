@@ -2,7 +2,7 @@
 layout : post
 title : 用一枚硬币，绕开美国举债上限？
 category : article
-tags : [债务,怪诞,硬币,国会,美国]
+tags : [债务, 怪诞, 硬币, 国会, 美国]
 ---
 
 原文链接： [地址](http://cn.nytimes.com/article/business/2013/01/11/c11coin/)
