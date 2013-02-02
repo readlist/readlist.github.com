@@ -2,7 +2,7 @@
 layout : post
 title : 罪与罚的代价 -- 田川
 category : article
-tags : [nanjing, crime, punishment,japan]
+tags : [nanjing, crime, punishment, japan]
 ---
 
 原文链接： [地址](http://www.dushumashang.com/2179)
