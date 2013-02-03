@@ -2,7 +2,7 @@
 layout : post
 title : 由psp破解谈到中国伸手党式网民的心理
 category : article
-tags : [psp, crack,hand, netizens,sina]
+tags : [psp, crack, hand, netizens, sina]
 ---
 
 原文链接： [地址](http://blog.sina.com.cn/s/blog_652cc41d0100u0qf.html)

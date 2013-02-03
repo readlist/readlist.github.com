@@ -2,7 +2,7 @@
 layout : post
 title : 中国水墨的革命 -- NINA SIEGAL
 category : article
-tags : [nytimes, ink, culture-arts,china]
+tags : [nytimes, ink, culture-arts, china]
 ---
 
 原文链接： [地址](http://cn.nytimes.com/article/culture-arts/2012/11/09/c09shuimo/)
