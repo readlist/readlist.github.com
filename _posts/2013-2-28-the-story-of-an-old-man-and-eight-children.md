@@ -1,8 +1,8 @@
 ---
 layout : post
-title : 九妹：一个老人和八个留守孩子的故事 -- 晏礼中 
+title : 一个老人和八个留守孩子的故事 -- 晏礼中 
 category : article
-tags : [留守, 贫穷, 贵州, douban,  ]
+tags : [留守, 贫穷, 贵州, douban]
 ---
 
 原文链接： [地址](http://www.douban.com/group/topic/11399902/)
