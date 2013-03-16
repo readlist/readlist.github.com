@@ -2,7 +2,7 @@
 layout : post
 title : 洪门老大，来自历史的回声 -- 许知远
 category : article
-tags : [ ,  ,  ,  ,]
+tags : [ nytimes,  洪门,  老大,  历史, 旧金山]
 ---
 
 原文链接： [地址](http://cn.nytimes.com/article/culture-arts/2013/03/11/cc11xuzhiyuan/)

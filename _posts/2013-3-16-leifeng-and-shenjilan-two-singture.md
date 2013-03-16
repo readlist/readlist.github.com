@@ -2,7 +2,7 @@
 layout : post
 title :  雷锋与申纪兰，两个符号的扭曲变形 -- 吴航
 category : article
-tags : [ nytimes,  雷锋,  申纪兰,  扭曲变形, ]
+tags : [ nytimes,  雷锋,  申纪兰,  扭曲变形]
 ---
 
 原文链接： [地址](http://cn.nytimes.com/article/culture-arts/2013/03/13/cc13leifeng/)
