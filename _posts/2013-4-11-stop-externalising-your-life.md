@@ -1,6 +1,6 @@
 ---
 layout : post
-title : 别再外化你的生活
+title : 别再外化你的生活 -- James Shakespeare 
 category : article
 tags : [yeeyan, 生活, externalising, 物化]
 ---
