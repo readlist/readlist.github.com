@@ -1,6 +1,6 @@
 ---
 layout : post
-title : 飘洋过海去死亡
+title : 飘洋过海去死 -- LINDOR REYNOLDS 
 category : article
 tags : [ yeeyan, dead, 加拿大]
 ---
