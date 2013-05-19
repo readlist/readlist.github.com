@@ -1,6 +1,6 @@
 ---
 layout : post
-title : 在耶鲁，一门触及内心的写作课 -- 高雨莘
+title : 在耶鲁一门触及内心的写作课 -- 高雨莘
 category : article
 tags : [ nytimes, 创造性 ,  写作,  中文, ]
 ---
