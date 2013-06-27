@@ -5,9 +5,7 @@ category : article
 tags : [ nytimes,  旅行,  谷岳]
 ---
 
-http://cn.nytimes.com/tools/r/?url=%2Ftravel%2F20130621%2Fcc21traveller%2F&langkey=zh-hans&from=RSS
-
-原文链接： [地址]()
+原文链接： [地址](http://cn.nytimes.com/tools/r/?url=%2Ftravel%2F20130621%2Fcc21traveller%2F&langkey=zh-hans&from=RSS)
 
 2012年的秋天，晚上7:30，北京房山，山区空气冷得能看到自己的哈气，能感觉到鼻涕开始从鼻孔里流下来。除了身上的长袖衣我没别的衣服，一天没吃饭了，肚子饿的咕咕叫。怎么吃饭？晚上睡哪儿？
 
@@ -22,4 +20,4 @@ http://cn.nytimes.com/tools/r/?url=%2Ftravel%2F20130621%2Fcc21traveller%2F&langk
 躺在床上我终于决定不去担忧没有钱去旅行的后果，决定先迈出第一步再说，去看看在完全没有钱的情况下，人与人之间的关系到底能怎样，把钱所带来的那种“安全感”丢下，去体验一种完全未知的经验。
 
 
-原文链接： [地址]()
+原文链接： [地址](http://cn.nytimes.com/tools/r/?url=%2Ftravel%2F20130621%2Fcc21traveller%2F&langkey=zh-hans&from=RSS)
